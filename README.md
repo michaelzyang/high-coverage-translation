@@ -7,6 +7,8 @@ The pretrained model we worked from was the JParaCrawl English-to-Japanese Trans
 Model finetuning was conducted in the `jparacrawl-finetune` submodule, branched from https://github.com/MorinoseiMorizo/jparacrawl-finetune
 The shell scripts for training our various models were the `jparacrawl-finetune/fine-tune_preprocess.sh` and `jparacrawl-finetune/staple_*.sh` scripts. These were adapted from the original scripts in the `jparacrawl-finetune` repository.
 
+Models and experiments for the neural filtering model is in `filtering` folder.
+
 ## Corpora
 Our Duolingo train/dev/test gold data can be found at `duolingo-sharedtask-2020/staple-2020-train/en_ja/*_split.gold.txt`. We created these split files from the original `train.en_ja.2020-01-13.gold.txt` provided for the shared task (excluded from the repo due to excessive file size) https://sharedtask.duolingo.com/. 
 
