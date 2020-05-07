@@ -1,0 +1,1500 @@
+prompt_d1ba904176ff0a0c771718f62d84f609|who is going to believe me?
+誰が私を信じるつもりですか？
+
+prompt_49807630f26e20e9fc91939aa52729b0|he did not answer me.
+彼は私に答えなかった。
+
+prompt_07d8a783ba99ac7e8f66dd41bdd40c5b|it is a sad chapter.
+それは悲しい章です。
+
+prompt_2d6c5b6b7446b2d59f1961e26125a8a3|the paint is orange.
+塗料はオレンジ色です。
+
+prompt_29ed3352aedd34b7fb9b89d4218e0b0a|you are not a victim.
+あなたは被害者ではありません。
+
+prompt_a569fd9b1368144e9daeca22415e97b3|he returned the menu to us.
+彼は私たちにメニューを返しました。
+
+prompt_8644858fc78462b313d6b69cd56cd778|i sleep at night.
+私は夜に眠る。
+
+prompt_84a716c38d89fb4cc3e0bbc143e02409|i just finished a letter.
+私はちょうど手紙を終えた。
+
+prompt_71ed29bc90abff7b2cfaca8a96f252df|my mother's dress is special.
+私の母のドレスは特別です。
+
+prompt_e91572832cccffadd2e13b448d193a71|the plates are in the cabinet.
+プレートはキャビネットにあります。
+
+prompt_cd82db914bf7c39d42c3421e67aa4ceb|i want to be able to speak english.
+私は英語を話せるようになりたい。
+
+prompt_c19b3be80b5f33c576eea6c77623e26a|he never pays attention.
+彼は決して注意を払わない。
+
+prompt_389e39bf79f8c41658a68a29799c8d29|i lost a leg.
+足を失った
+
+prompt_68e0a511fa3cc8699ed0aaa09c8450e3|my daughter wishes for a horse.
+私の娘は馬を望みます。
+
+prompt_fc8151e69374caadd3325084ed945b5e|there are many solutions.
+多くの解決策があります。
+
+prompt_e552961c793fc9dc0b7ea154a5312f41|this will reduce its value.
+これにより、その値が減少します。
+
+prompt_f735b7a46002e516abd2ec2bb45ceaf7|please open the door.
+ドアを開けてください。
+
+prompt_d8850dbaf8d13baa2ec4a3d07971c18d|i want details.
+詳細が欲しい
+
+prompt_23e0bce68d1353315cd9f2c75203b8e9|she runs with my aunt.
+彼女は私の叔母と一緒に走る。
+
+prompt_14d51dca80b75f573656294cdde1d140|she never drinks coffee.
+彼女はコーヒーを飲まない。
+
+prompt_fc9c2daec4c041ad0d0a0bce65a47542|i do not know yet.
+私はまだ知らない。
+
+prompt_05174aa73a9b9ea556ef4190118a88d7|they are in the production department.
+彼らは生産部門にあります。
+
+prompt_0aa5e1611bcf4293b99b26cf59c64e3b|i am in the fourth grade.
+私は4年生です。
+
+prompt_94e73e00c2f581573460ebeb792c4604|someone has a bird.
+誰かが鳥を持っています。
+
+prompt_e27b0a8e33bef1581a0acae164140969|do you have a sponge?
+あなたはスポンジを持っていますか？
+
+prompt_4b954634ac9c21628be4d74a750e3dcc|who had lived there?
+誰がそこに住んでいた？
+
+prompt_81487425588682654761a589f78aed95|what is the issue?
+問題は何ですか？
+
+prompt_df54a139fd294428b9b032f772f90294|i arrive at the zoo.
+私は動物園に到着します。
+
+prompt_fd5b96c8f37bd7129e5efedd576bfc74|his name is familiar to us.
+彼の名前は私たちによく知られています。
+
+prompt_950320e0e11f595d9bdbc0005cb3c1de|goodbye, taro!
+さようなら、太郎！
+
+prompt_4d59300f7c3f37799bcf6e29f7c4575e|she believes so.
+彼女はそう信じている。
+
+prompt_4e021835184d4fb61016969af7700100|our trip is in september.
+私たちの旅は9月にあります.
+
+prompt_dfbe7bbaf0868bc9b7bb07e0f62b3391|what did he add?
+彼は何を追加しましたか？
+
+prompt_63cafa8a8f26ae904b2229424c209d9a|open the windows.
+ウィンドウを開きます。
+
+prompt_2bc91a0a7ff8109a00fdf21559f6404f|my friend is in america.
+私の友人はアメリカです。
+
+prompt_f8e14b90029ee62238be6694919e72a9|to produce meat, animals are necessary.
+肉を生産するには、動物が必要です。
+
+prompt_fa05d1d53c2874f147466aa117507409|do you agree?
+同意しますか？
+
+prompt_e62e9505852088cfa1ff30d6198a751c|the opening is this friday.
+オープニングは、この金曜日です。
+
+prompt_8fc5c755048813d2c7b4e1be711ac069|the ground is brown.
+地面は茶色です。
+
+prompt_ac1ea4ca928d0cc417486e88b896e843|that tradition was born in china.
+その伝統は中国で生まれた。
+
+prompt_96b6ecd300272b1f02ceadd134494e4a|i have wanted to see you.
+私はあなたに会いたかった。
+
+prompt_dd4a8a18ff4a271c7ccec105c851e054|the access is free.
+アクセスは無料です。
+
+prompt_eaf72586ace1887f8c73fecfe2e87ec4|i wanted red shoes.
+赤い靴が欲しかった
+
+prompt_9465e04efa193ecb1d93e637e5aa23f8|i went to see the air force.
+空軍を見に行った
+
+prompt_4aaffbf4f3ae19566ecd200944f253b7|is he the mayor?
+彼は市長ですか？
+
+prompt_b45352eb4b79fdda0e4d8c3e222f17f6|she has some friends.
+彼女には友達がいる。
+
+prompt_1b414534c43a36a35825815dadd2365b|we are boys.
+私たちは男の子です。
+
+prompt_3f62e448f8368efa9e4a3b14e2b0745c|they put bread on the table.
+彼らはテーブルの上にパンを置く。
+
+prompt_7996558ac12d0b585ff4710790a2cc52|i have three plates.
+私は3つのプレートを持っています。
+
+prompt_b8c22660a83d36b5ce91e6672811a577|i want a calendar.
+カレンダーが欲しい
+
+prompt_63a4a2df9859128cf0978d1f15252202|she has an electric motorcycle.
+彼女は電気オートバイを持っています。
+
+prompt_c305c949bb4f59cf35676d169c78be99|they fly to the north.
+彼らは北に飛ぶ。
+
+prompt_b0e951860fcab9166412439b61f80322|the girl eats breakfast.
+女の子は朝食を食べる。
+
+prompt_8eb170dd1fbd5f43354e7de6d85ca444|my father is an engineer.
+私の父はエンジニアです。
+
+prompt_a10615036ced90dc79218dc9ab95ed12|i like such coffee.
+私はそのようなコーヒーが好きです。
+
+prompt_6cdb186a83c1931a73ec7c6bbde40230|do you have insurance?
+保険はありますか？
+
+prompt_c7b11274c073873ef9c2449d07fc8df0|i think about you.
+おまえのことを考える
+
+prompt_09a88f9b288efa15c4899b3fc4ecf9cd|she has a very beautiful face.
+彼女はとても美しい顔をしています。
+
+prompt_7b2d9ffeae2a6f233440f6f861bcbdd6|welcome, taro!
+ようこそ太郎さん！
+
+prompt_fa071d408dafccaa44fa891b74dbb425|the sandwich contains cheese.
+サンドイッチにはチーズが含まれています。
+
+prompt_648d0e0689c1cb026d90486e38064c2c|bread is food.
+パンは食べ物です。
+
+prompt_3c5e4a1935cf76b903644867907a4d43|they have the keys.
+鍵を持ってる
+
+prompt_40203a8be55e393cfc61ed35e8a316ff|the boy has fear.
+少年は恐怖を持っている。
+
+prompt_0c20eb8a534557134403dab9dc0fe87b|we will think about you.
+私たちはあなたについて考えます。
+
+prompt_1acf56a1b0307b4029e9a780a646cb79|hello, taro.
+こんにちは、太郎。
+
+prompt_0a410ec436994a3dd3555c51fd7d3f64|the man has a home.
+男は家を持っています。
+
+prompt_1cd1dacbdf24ab0cbb7a6d9d52aef49f|they appear in october.
+彼らはオクトーバーに表示されます。
+
+prompt_bd6cead1f44fd42773a60fd5d7766de8|i want to have a television.
+テレビが欲しい。
+
+prompt_de9ee247f328e5e9bde294a2786ec4af|we are girls.
+私たちは女の子です。
+
+prompt_3a153282f312389ba454a1474bcc5e08|i am tired of life.
+私は人生に疲れています。
+
+prompt_4ef8b3e6b4d79d9cd2b94cb904244703|the cheese is yours.
+チーズはあなたのものです。
+
+prompt_20411b1ce015eee28e0dd6b2536b3cb7|she informed us.
+彼女は私たちに知らせた。
+
+prompt_b475577c7fac38599b1b180b92929de8|his last attempt is really interesting.
+彼の最後の試みは本当に面白いです。
+
+prompt_b370ed8e66f1cf930f4050394c265e9a|he goes in the opposite direction.
+彼は反対方向に行く。
+
+prompt_f7a57967a49a9472d32a670f98872fad|the boy eats dinner.
+少年は夕食を食べる。
+
+prompt_49835cf05e525a4ad7b9787ca57ed4d1|there is a dog on the bridge.
+橋の上に犬がいます。
+
+prompt_263772f44bd7d7dfb7eb5529f5ddf4f6|we are a couple.
+私たちはカップルです。
+
+prompt_f6deb3b7723c23a419bf59f8b9ec3bfc|i have your tv.
+テレビを持ってる
+
+prompt_a1dfa7e58fc8613b709915d13ff0c0cf|i told you.
+言ったでしょ
+
+prompt_419e456733198afc73556fbb42e56fde|my house is in france.
+私の家はフランスです。
+
+prompt_5a070fe1bcbf6a5943d39238144cc9f1|i know the city well.
+私は街をよく知っている。
+
+prompt_161c4e85abfd69bf28ec1bd47bdaad51|i am full of joy.
+私は喜びに満ちている。
+
+prompt_ab02c2486163dc80db2ae5501a9b4251|we need a sample of his blood.
+彼の血のサンプルが必要だ
+
+prompt_927b7b45bc24a0183c2e5653834d9c4d|horses eat apples.
+馬はリンゴを食べる。
+
+prompt_f7530af9b06499b51ee51d079ea4d6f9|they are going to receive the instruments.
+彼らは楽器を受け取るつもりです。
+
+prompt_9b5d7ec75c555bd037a3a8804e648d16|we want them to use the real name.
+実名を使わせたいのです
+
+prompt_06f289039cf1e10d74d6d7452e3a3b52|she sees the towers.
+彼女は塔を見ている。
+
+prompt_944755c3e25971d96632241fb4e21ec3|she presents her daughter to me.
+彼女は私に彼女の娘を提示します。
+
+prompt_e4bea52b08b3927a06445d1f91acdfd4|good morning, and thanks.
+おはよう、と感謝。
+
+prompt_3fa42aa2cfd87f9de26a511084bc6403|he is going to walk to school.
+彼は歩いて学校に行くつもりです。
+
+prompt_980921e3b642444df8d06f531d394c69|i am in charge.
+俺が責任者だ
+
+prompt_b227557a03bc21dcfcfe86d697474ff3|nineteen is a number.
+19は数字です。
+
+prompt_786336cd140ef7e4060da7501808a050|taro is welcome.
+太郎は大歓迎です。
+
+prompt_ce960d4ac8f5a274509e077d11ced7de|please eat.
+お召し上がりください。
+
+prompt_c45ebb545347299e77aad7bde3c72087|which shoe is yours?
+どの靴があなたのものですか？
+
+prompt_d6dab6416f7e126ac1ac9f9128d81a09|she has her own space.
+彼女は自分のスペースを持っています。
+
+prompt_e6c694510f7b455004fd0e741a916706|you had cut the cheese.
+あなたはチーズを切っていた。
+
+prompt_0f9acda7ec85b8ecc2bf8ad5ff8c29e7|i have a job offer.
+私は求人を持っています。
+
+prompt_fb5f8488a412026cdb17e399c614b023|the workers are on strike.
+労働者はストライキにいる。
+
+prompt_be3ee67ce3876a17d836daa37e92a0aa|he will stay here.
+彼はここに滞在します。
+
+prompt_ac35c41d0dbcea0a232badfee3437384|i know that.
+分かってる
+
+prompt_217bcff234efefb1b087f630ec1785f6|my name is taro.
+太郎と申します。
+
+prompt_b9804a2f932a5ab82c1814e71809f33d|it is not good to hate.
+それは嫌いには良くありません。
+
+prompt_e80b03cd471151cbe0ce4710286ed90a|the information is true.
+情報は真です。
+
+prompt_4e6e11f4932fc4679389a0073e3b5582|we cooked together.
+私たちは一緒に調理しました。
+
+prompt_f3a4d5bbaea494a778401bcb75f761ab|i am going to control this.
+私はこれを制御するつもりです。
+
+prompt_decfaf14817adc11c1eeca23571967ea|the duck drinks water.
+アヒルは水を飲む。
+
+prompt_0215d5cbe6be0d0ae15d4b360d82c4ed|he is my younger brother.
+彼は私の弟です。
+
+prompt_36bc8b0ae0fc2309d06799bc2a211706|the book is also available in portuguese.
+本はポルトガル語でも利用可能です。
+
+prompt_6e1a9d78714e2c3a93b6dc2b4ecb146f|i will write your name on the paper.
+あなたの名前を紙に書いておきます。
+
+prompt_a22bea9a6c13406969b2f91477448e1a|we will eat later.
+私たちは後で食べるでしょう。
+
+prompt_51ba0e2d5e205ce6013ddc66e491464c|my clock is pink.
+私の時計はピンクです。
+
+prompt_ba0859de2a152d2099faa3bb65eb5ff2|he works in the laboratory.
+彼は研究室で働いています。
+
+prompt_445ae81093bb1db781c25605bbc14f6a|did you speak about the accident?
+事故のことを話しましたか？
+
+prompt_59275efa2cfda2ffffdafe2aab056a3a|is it far from here?
+ここから遠いですか？
+
+prompt_bea4b7f9db66b98998266f329f4370c2|we had decided to eat.
+私たちは食べることにしました。
+
+prompt_bd95ff4c12d83b470e4c163b639d3372|they are going to receive my letter.
+彼らは私の手紙を受け取ることになります。
+
+prompt_a8ece2ae763b31b535152f1b3bb4c703|did you talk with your husband?
+ご主人と話しましたか？
+
+prompt_df7bf20f91eea962d28f93bc73afbf70|we will cook the fish tomorrow.
+私たちは明日魚を調理します。
+
+prompt_8bc670578433cf47ffc89a8fef09784e|it is important to use the same calendar.
+同じカレンダーを使用することが重要です。
+
+prompt_bbf0d116d060bdba9f8bc3a89d17b336|i have met her in france.
+私はフランスで彼女に会った。
+
+prompt_096004800ca2f5c44b997599da6daa66|it is already almost night.
+それはすでにほぼ夜です。
+
+prompt_915671dac110201ca2b855172c2004b3|it is perfectly normal.
+それは完全に正常です。
+
+prompt_9686454ead1910d2564b267c8c337589|he reads our books.
+彼は私たちの本を読む。
+
+prompt_c5cf0ac984fecb8c48f224e9974f010a|i have a musical instrument.
+私は楽器を持っています。
+
+prompt_64177fec1745c0f55744e9d61be00eb6|is that everything?
+それだけか？
+
+prompt_573b7c70c9690484ab48f461fd1e0453|they are normally brown.
+彼らは通常、茶色です。
+
+prompt_634b2c5710e14f4c752be5db488dea03|does he have a dog?
+彼は犬を飼っていますか？
+
+prompt_471b0c93de88976e655e97b123750f0f|the official start is on saturday.
+公式のスタートは土曜日です。
+
+prompt_d6a55e464c7dcf9c3c77460accfbda83|i like this television channel.
+私はこのテレビチャンネルが好きです。
+
+prompt_708ebf018740c08aefa3074d30a2e960|she has a bank account.
+彼女は銀行口座を持っています。
+
+prompt_b734fd393b960297a2a35747f4d05238|we do not have any dogs.
+私たちは、任意の犬を持っていません.
+
+prompt_dfe978a50aeb223590913286d15f77dc|they eat sandwiches.
+彼らはサンドイッチを食べる。
+
+prompt_19cdd6039839ee3946ec8891b9cbed31|we are going to leave tomorrow.
+私たちは明日出発するつもりです。
+
+prompt_680276239ef0f17467c3205df3be0863|september has passed.
+九月が経過しました.
+
+prompt_8bde71a05aa51520d33c77a5bbb433a6|he was in pain.
+彼は痛みを抱いていた。
+
+prompt_ff4719a6c2b7155d17e296d8226ea8af|this body has no life.
+この体には命がありません。
+
+prompt_805fd7b07009aec779be813760a26f52|i do not have soap.
+私は石鹸を持っていません。
+
+prompt_4c915a6e4ddc3eba805cb56b860a0a60|my husband is tall.
+私の夫は背が高い。
+
+prompt_f7454e3f8608cfb521c57055938d49c0|she would have been a mother.
+彼女は母親だったでしょう。
+
+prompt_22c5e7776106894b78020eb59ab6f155|i am drinking milk.
+私は牛乳を飲んでいます。
+
+prompt_31fd6c60b8b7d2d658f21a4fd5178110|the girl eats soup.
+女の子はスープを食べる。
+
+prompt_350503d3c5428f974ec3e43460e7de6f|i know about you.
+おまえの事を知ってる
+
+prompt_a8199e8e0af54fc801a46121561c6916|you have one apple.
+あなたは1つのリンゴを持っています。
+
+prompt_8a20cb7c0c4c0748977e32c39852528a|the child eats meat.
+子供は肉を食べる。
+
+prompt_82a5075f9e650d24de9472b46da75b86|she had taken the clock.
+彼女は時計を取っていた。
+
+prompt_aa95e2a6d7fe7912421ed111686fab78|i drink coffee in the morning.
+私は朝にコーヒーを飲む。
+
+prompt_b62ad15267f2c94198e297ed560a953b|she reserves a table.
+彼女はテーブルを予約します。
+
+prompt_a5ea4cbeea80170dfa3453ee7c2c7c9e|i fly.
+私は飛ぶ。
+
+prompt_f3afe78e0e56fdc9533c6de1917b14dc|i saw a famous actress.
+私は有名な女優を見た。
+
+prompt_7b0673fc69d74d3c271277af4bca966a|he has his reasons.
+彼は彼の理由がある。
+
+prompt_485655a6f06b2690712a4402cd57a355|i am your grandfather.
+私はあなたの祖父です。
+
+prompt_1502e5a22a78dd2977ae832bb03ba9a4|wood is an important material.
+木材は重要な材料です。
+
+prompt_213cb8cbb92dc30613d3567d34633b55|her color is pink.
+彼女の色はピンクです。
+
+prompt_05f63fdc06841010d84cdc0c81cc4d01|a treatment is not possible.
+治療は不可能です。
+
+prompt_c343ca8b222b2c256eda0f0394fd50b1|that is the bus stop.
+それはバス停です。
+
+prompt_049a31bfb381357139e5339d19fb1c9b|the judge supported the lawyer.
+裁判官は弁護士を支持した。
+
+prompt_8d753c4f6282eab3e026037d0ececd53|do you drink coffee?
+コーヒーを飲む？
+
+prompt_ced0221bbbde2832c161ba0a020efbf4|my husband reads.
+私の夫は読む。
+
+prompt_c04527323fd3422fb0500385572b36b4|i put my coat on the table.
+私はコートをテーブルの上に置いた。
+
+prompt_d91555312c3b77b7e523158e5a6c35ad|the woman is important.
+女性は重要です。
+
+prompt_097c550a5926241a45c805a232960bb0|her skin is cold.
+彼女の肌は寒いです。
+
+prompt_f519dd79b410a3654d88a04bc74acf3c|the bear is not real!
+クマは本物ではありません！
+
+prompt_77472971c0ed83616d32b8a447f5f303|i cannot wait.
+待てない
+
+prompt_d9cf2a76b5d86e17ed5588c37e8fea71|i did not want to tell him.
+私は彼に言いたくなかった。
+
+prompt_daca548201e8286fbfb10c29402dfd21|i stayed there for four weeks.
+私はそこに4週間滞在した。
+
+prompt_11ca2aaea92349537af6ee23bc05981a|he eats meat in july.
+彼は7月、肉を食べる。
+
+prompt_9a03b08ad3ee5e5733161e6e99ed94ab|the key for success is preparation.
+成功の鍵は準備です。
+
+prompt_f27136a5732043e01428dad1a7c30f9a|the water was coming up to our necks.
+水が私たちの首まで来ていた。
+
+prompt_a423ddb107b5db2e1e49ca950a524904|that region has produced excellent wine.
+その地域は、優れたワインを生産しています。
+
+prompt_085346b1519f3cd3b37269cf59b77ccf|they are going to come with us.
+彼らは私たちと一緒に来るつもりです。
+
+prompt_e8b980166c526e79216e8268a292179b|she is a member of parliament.
+彼女は議会のメンバーです。
+
+prompt_02100fe4795e65a8b0d42de094780af3|what did we watch on tuesday?
+私たちは火曜日に何を見ましたか？
+
+prompt_df265cbdd28316c01c1f685775e6e333|i will not watch this channel.
+私はこのチャンネルを見ません。
+
+prompt_6c3097ab685b91260d37b06f579fe90f|pass me the sugar!
+砂糖を渡せ！
+
+prompt_747401e5924470c54c35d60fde60069b|i do not have time to lose.
+私は失う時間がありません。
+
+prompt_d3b60161096d279a709b3766d4f17bbc|we are writing a book.
+私たちは本を書いています。
+
+prompt_222f3f815ed9a7bc157fb4e1b8881bfa|they are boys.
+彼らは男の子です。
+
+prompt_45de3aa0720703d5224382365fc62ca8|the palace is beautiful.
+宮殿は美しいです。
+
+prompt_903be0247d0c1430fc779f2c0d9f9056|he is not normal!
+彼は正常ではありません！
+
+prompt_2a9cd2ad665f5f345f8c0dca0e391a97|i eat cheese.
+私はチーズを食べる。
+
+prompt_ac1c4f5172491311f62dbbb53f95e122|a day has twenty-four hours.
+一日は二十から四時間を持っています。
+
+prompt_6a81aad478464f9e21f3ba125da1cffa|the green leaves are small.
+緑の葉は小さいです。
+
+prompt_18f6e0d886c3a2afc7e223c547ec3946|we are going to think about you.
+私たちはあなたのことを考えるつもりです。
+
+prompt_3669b3d4ceaaa6a908c26f305a0f043c|the elephant eats the apple.
+象はリンゴを食べる。
+
+prompt_ce7143b8f58efdb9a16d2c09df85e8b8|how much is it?
+いくらだ？
+
+prompt_2092fc9c4e9ef23f780bbab3bfd4b0dd|we speak english.
+私たちは英語を話します。
+
+prompt_1fe47d0acd02c4ae761fa670a11c6551|do you need insurance?
+保険が必要ですか？
+
+prompt_52c0ce6d39b28ad039228be2aba5e3d7|where are you going?
+どこへ行くの？
+
+prompt_79cb7c354be9b0f37c6e68c82b5d6e31|the boy eats sugar.
+少年は砂糖を食べる。
+
+prompt_5afd7adaf878d1852dd0ed662201c4ec|they have not paid me this year.
+彼らは今年私を支払っていない。
+
+prompt_e5941dde8f61e75510d3b9861128dba9|the children are not responsible.
+子供たちは責任を負いません。
+
+prompt_c4548f6c434d376a0c3cd4cffc85c2f8|i want to learn french.
+私はフランス語を学びたい。
+
+prompt_9ddaf50b7da6e789adb4e520c6610560|what have you liked?
+あなたは何が好きですか？
+
+prompt_707a0aa4a9c950d0917777e2dc827853|who goes abroad?
+誰が海外に行くのですか？
+
+prompt_10452224083fefe50013e17b95761b05|it is three degrees tonight.
+それは今夜3度です。
+
+prompt_4cbbb2344491e95c1b9631b071fa63b9|they will serve wine and beer.
+彼らはワインとビールを提供します。
+
+prompt_1a2caea830a87a854bff4157e1c3a4f3|the next class is history.
+次のクラスは歴史です。
+
+prompt_1581976d7e75971116ce2011ad31915e|it is the spring.
+それは春です。
+
+prompt_af32b5ba891469a7232025863a1f9e71|you are going to go?
+あなたは行くつもり？
+
+prompt_d8cfc9e873d7c069d25311015bb6b345|i will find a job tomorrow.
+私は明日仕事を見つけるでしょう。
+
+prompt_f199c426118a40cfc85a0b2336a983b0|what did she add?
+彼女は何を加えたの？
+
+prompt_cbba42cb653af8cc14434d30161bc1db|the engineer was touching the engine.
+エンジニアはエンジンに触れていました。
+
+prompt_3327445790a229eb77a39a98eef20a34|safety is important.
+安全性が重要です。
+
+prompt_c988916564da3ee78dd055c911b50dc8|i am not available.
+私は利用できません。
+
+prompt_55176d7f5e0a3ed2877f3de4f3a6c9f0|do you have plans for tonight?
+今夜の予定はありますか？
+
+prompt_3b67ae600330543244f04680097b80af|your speech was excellent.
+あなたのスピーチは素晴らしかったです。
+
+prompt_686acc14fca9a99179ccf6a508e9834a|we will see the hotel tomorrow.
+私たちは明日ホテルを見ます。
+
+prompt_3b3230ba2921fb0b22ddeb6d2a29aec9|i will exercise each day.
+私は毎日運動します。
+
+prompt_a58582b5fffb0ef20fbfee9e7359662a|he entered my house.
+彼は私の家に入った。
+
+prompt_f188ad43213090892d6ad9285fc806aa|i find a dog.
+犬を見つけた
+
+prompt_53da443ca18660b433e891cdfce51c61|i return the book.
+私は本を返す。
+
+prompt_6a62bab4750734a75cb9e1f56077fcc9|i want more.
+もっと欲しい
+
+prompt_a505c9526d6e823f99815c050759b3ac|he has seventy books.
+彼は70冊の本を持っています。
+
+prompt_6e7f62d8ac41452f629ba9dd48b7f8de|he has cancer in the brain.
+彼は脳に癌を持っています。
+
+prompt_1702e3901dd13ada35d1dbaf87e6c7a1|it is not my fault.
+それは私のせいではありません。
+
+prompt_ae72ee3e526761a6cdbc0994eec0dce7|i am going to school.
+私は学校に行くつもりです。
+
+prompt_40fa08e178588a5562dbcde69cba9daa|our parents have jobs.
+両親は仕事がある
+
+prompt_57daebe5db4f7e0dbd5626390a0f197e|are you going to prevent it?
+あなたはそれを防ぐつもりですか？
+
+prompt_0fffadb5116b5bf572e9af128100728b|the alternative
+オルタナティブ
+
+prompt_e135863fc6fb5867f3f24738829de28b|the book has many entries.
+本には多くのエントリがあります。
+
+prompt_c6b6b335db215fa02bb388c10285f0c0|i do not want salt.
+私は塩が欲しくない。
+
+prompt_5665133396132783ba2fd30154c44ab0|this is my fault.
+これは私のせいだ
+
+prompt_72679d82f7e4c865ff55513bdde1359b|i have some money.
+お金がいくらかある。
+
+prompt_9fa644f5a5e38a359afb879b4f955aec|he eats an orange.
+彼はオレンジを食べる。
+
+prompt_93782dc15362dd3a9d40297b59fa26db|i pay him.
+私は彼に支払う。
+
+prompt_8442dae78d336b211eda4344fbee9b8e|a century is over.
+世紀は終わった。
+
+prompt_f36857e7688b5bee77fac727ecd941bd|please sign.
+サインしてください。
+
+prompt_cd372a9dc47f97e9cc8b50139835e073|my parents want to walk.
+私の両親は歩きたい。
+
+prompt_4fefe2b275e36cfe0fbe9df14e9caae1|we have passed the test.
+テストに合格しました。
+
+prompt_565fcfe7e2f8816dbc48b028eb6105a6|do you have a pen?
+あなたはペンを持っていますか？
+
+prompt_bffcc439fb5393c57d07a587f5796004|we are taking that class.
+私たちはそのクラスを受けています。
+
+prompt_7c3044a6bc15b04ff01a79b5486ad6f5|the wine is open.
+ワインは開いています。
+
+prompt_f73602711816bc94af053cc730866e01|the girl answered the phone.
+女の子は電話に出た。
+
+prompt_e1239b896006b0d136e448093db1b444|i have a map of the world.
+私は世界の地図を持っています。
+
+prompt_caa99fa99f18428d40674f18415073b4|the children talk.
+子供たちは話します。
+
+prompt_55d769a3ef877708978748c0881ea2bb|she put the magazine on the table.
+彼女はテーブルの上に雑誌を置く。
+
+prompt_fc225df31d1b58e1cd0186b038c62091|i have nothing in my bag.
+バッグには何も入っていません。
+
+prompt_c4c62b11060b86ae4c12d713438ca30e|they will be able to eat.
+彼らは食べることができるようになります。
+
+prompt_a51067628d5139a6517048df241e7002|it is a good band.
+それは良いバンドです.
+
+prompt_18461c6aafdcbe578a3a6198454c5a36|he will want it later.
+彼は後でそれを望むでしょう。
+
+prompt_48a963fbeea3838e2d287a9b463b761e|the weapon is mine.
+武器は私のものだ
+
+prompt_818a43d8465fff7978fac1d3d45b973e|i want to change that.
+私はそれを変更したい。
+
+prompt_d53185bde26d12b9ab9501e2a47be025|my grandmother speaks perfectly.
+私の祖母は完全に話します。
+
+prompt_9c27e7fac8d0cd342ee9990b1cda4a99|the man eats a tomato.
+男はトマトを食べる。
+
+prompt_ea114390be3cb60447261c593daae3f7|he does not accept change.
+彼は変更を受け付けません。
+
+prompt_1c6455d9b2117db351932af935a52b63|you ask the same thing.
+あなたは同じことを尋ねます。
+
+prompt_f29b639fdeb0bb8966c4ab965b294c3f|i give them water.
+私は彼らに水を与える。
+
+prompt_532aa7c0265d264c1c7a822518065647|our trip is in march.
+私たちの旅は行進しています。
+
+prompt_cfaf76862472344bd8a8105db35684f3|i wish for a son.
+息子が欲しい
+
+prompt_41552d4c83f5110f44d4b3c401f9128b|she wants to improve her english.
+彼女は彼女の英語を改善したいと考えています。
+
+prompt_4d5e0c03ad05207ce0455695aa01c0ff|we sleep in a castle.
+私たちは城で眠る。
+
+prompt_1cd7736cb28590caa6fc92a31ac3191d|you appear sad.
+あなたは悲しいように見えます。
+
+prompt_52b2373a8cf3cbc193f3260d4036c63d|everybody needs water.
+誰もが水を必要としています。
+
+prompt_1f226982223b82651d8f011216af9dae|which one?
+どれ？
+
+prompt_f2d5fcd779081811bc651b202927605a|he is always studying.
+彼はいつも勉強しています。
+
+prompt_5796aede4249c7afa19c015e89e74207|i like black and white photography.
+私は白黒の写真が好きです。
+
+prompt_a9355e976ab296644907747c595bd1c5|communication is important.
+通信は重要です。
+
+prompt_7e1b4a689cd2278891fe9fa93eae7682|how do you define success?
+どのように成功を定義しますか？
+
+prompt_06d343e351be247f5175a45492d43c35|i eat salt.
+私は塩を食べる。
+
+prompt_aa2587602e04e19ff2e967ce14fe11e7|except for the wine
+ワインを除く
+
+prompt_7bb7b17a6cc17a42510d591bea9a32cc|this is a group.
+これはグループです。
+
+prompt_2b58597dfa7c53a37ab68b1f9f174af0|it is my crab!
+それは私のカニです！
+
+prompt_e29a53b6ebf3cfb57d6110eb00387368|we will have chosen this house.
+私たちはこの家を選んだでしょう。
+
+prompt_b92abf70454af367b9513ec81ae0f540|the woman eats an apple.
+女性はリンゴを食べる。
+
+prompt_2cb83732e57b7220cfa2a63721ecb8c3|my animals drink.
+私の動物は飲む。
+
+prompt_4388677506ac691ca4dac246dfabc32a|cats sleep anywhere.
+猫はどこでも寝る。
+
+prompt_176f40aefd434ddc16802dd72ca47548|the congress does not work.
+議会は動作しません。
+
+prompt_d2f1bfc8859bcdd5636d0c9762f39527|i have tried today.
+私は今日試しました。
+
+prompt_b1eee67d7df4643f50f08d4e85050050|she will touch the fire.
+彼女は火に触れるでしょう。
+
+prompt_ca6ac117cbea55e67a6756da6a6f9ba8|i drink milk.
+私はミルクを飲む。
+
+prompt_4e6728311722cd5b908583cc98709419|you will miss the train.
+あなたは列車に乗り遅れるでしょう。
+
+prompt_138f5382e287500b68264e1610351850|the concept is the same.
+コンセプトは同じです。
+
+prompt_a78996770300909ca6c81167819b6008|she goes to the farm.
+彼女は農場に行く。
+
+prompt_a24ae88cbc796ccd144980c7488b58cd|the lecture starts at five.
+講義は５時から始まる。
+
+prompt_f2a32b40e14d0322888d2e3bae9ac2ef|i like to cook.
+私は料理が好きです。
+
+prompt_9f1532ff417963c3949f8cdb9079affd|she searches for her mother.
+彼女は母親を検索します。
+
+prompt_d252f746d706056bb302ba07b3fbfb0c|the book is about religion.
+本は宗教についてです。
+
+prompt_7843707fd4cccc873389815a35552916|the boys walk.
+少年たちは歩く。
+
+prompt_810bffaee5e9fad2a48efafc61f6e8d8|the coast is beautiful.
+海岸は美しいです。
+
+prompt_c4c9cf983582d143febc1e734ab84e99|did you see ?
+見た？
+
+prompt_b46784d895ba899e416c9e2790ee78de|they read the study.
+彼らは研究を読んだ。
+
+prompt_d6cf6a46afd598011044f4d181f92468|he is worse!
+彼はもっと悪い！
+
+prompt_707690b1f654ed87892fe4daeba21ec4|he believes my child.
+彼は私の子供を信じている。
+
+prompt_bd47deb9ce7de25ace3e412aa7131130|we have two choices.
+2つの選択肢があります。
+
+prompt_98e2d30ff88089ccebe101e58e5acb9b|my mother likes to cut fruit.
+私の母は果物を切るのが好きです。
+
+prompt_5877fbde34c66dfd83dffa6df28637d3|what is the main industry in this town?
+この町の主な産業は何ですか？
+
+prompt_b1d5cd793de1b4ef4902f998d80f2391|what is the main concept?
+主なコンセプトは何ですか？
+
+prompt_75826f4435daff04f31b808679312899|thanks for the explanation.
+説明してくれてありがとう。
+
+prompt_b7c8efe939e08cbf007ad82a0a0f6756|she has an animal.
+彼女は動物を飼っている。
+
+prompt_a786ea5ceb05c76c7d88647b1cbf1607|to whom?
+誰に？
+
+prompt_627a296cfe1f6e0bc8d487b6dce98247|march, april, may and june
+行進, 四月, 月と 6 月
+
+prompt_939f0428692996de126fbb9d26772e8b|i lost my passport.
+パスポートをなくしました。
+
+prompt_e5a0112ce934e7a51b077d850853e76d|how old is your son?
+あなたの息子は何歳ですか？
+
+prompt_043abd1ac3fc0be3cda3c8fcc62a54b4|i read books.
+私は本を読んでいます。
+
+prompt_8ee73011da03de454295fb67cdff617b|she explained her culture to me.
+彼女は私に彼女の文化を説明した。
+
+prompt_eb6db9af99180628808880d83b935d82|goodbye and good night!
+さよならとおやすみ！
+
+prompt_5a4c5c5311f1674e41d939c213cc9113|i exercise.
+私は運動します。
+
+prompt_59011349f6d978ba2d778574f9eb62fe|he talked about himself.
+彼は自分自身について話しました。
+
+prompt_0ecac3d8bde89c2000b65d8e8dab5ab8|the girl eats a strawberry.
+少女はイチゴを食べる。
+
+prompt_45d5f3380b2bbfca9e493b99899837e5|i have not drunk water today.
+私は今日水を飲んでいません。
+
+prompt_b06b41d6ecd41fb78223b5bee7819682|i neither walk nor run.
+私は歩くことも走ることもない。
+
+prompt_accdcecadb29b59c1ab1c37c14316348|what is the subject of the book?
+本の主題は何ですか？
+
+prompt_1408bcc148307f31ff7ff492859d8943|do you like to study?
+あなたは勉強が好きですか？
+
+prompt_be0cafebfbb51ab77fee3bfd88a66ae5|what do you ask?
+何を聞きたい？
+
+prompt_337c8a1f8854cbaf7af3a515080c6ee7|i am normally tired.
+普段は疲れている。
+
+prompt_6461d113dded2986aaca61e7b43f99d0|i am afraid to go.
+私は行くのが怖い。
+
+prompt_b19767e8f6e1b83ad6b03cf0fccd2ecb|i have a bowl.
+私はボウルを持っています。
+
+prompt_ad5c44508f597cb06204196c2edd8810|i change.
+私は変わる。
+
+prompt_dcab1faf13711f124ce23dd68ff2e0b3|the firm is small.
+会社は小さいです。
+
+prompt_226cc0f751ae399054847fccb19a8949|we are going to open a restaurant together.
+一緒にレストランをオープンするつもりです。
+
+prompt_cf9e5b878ff782bfb819dfc6148412da|she is seventeen.
+彼女は17歳です。
+
+prompt_83ab1594b4b838678e74d932e2d333cb|the apple is especially green.
+リンゴは特に緑色です。
+
+prompt_885d9452a70e9bf687aa90539e6724d5|you are important!
+あなたは重要です！
+
+prompt_fb0d11d86446e7b8a74a79e29c526b48|she has no arguments.
+彼女は引数を持っていません。
+
+prompt_820b4829e8afbda398faddd8bdb031b2|she makes me happy.
+彼女は私を幸せにします。
+
+prompt_4202f7ea1ebf80a6bd7b2ace1ab481e0|here is a sample.
+ここにサンプルがあります。
+
+prompt_c16a9d7d4e18ec3b666a475bafdbba67|the professor kept the key.
+教授が鍵を握った。
+
+prompt_52e319401228cd57556ef96bdb21af64|even he has tried.
+でも、彼は試みました。
+
+prompt_283e05341e8467956625e087971ca18a|i have become a woman.
+私は女性になった。
+
+prompt_118ca7dc39e6a8cb62c75d9489d240a0|the moment is historical.
+瞬間は歴史的なものです。
+
+prompt_9792eca1a0edebc40ede96068a61463f|i am a boy.
+私は男の子です。
+
+prompt_01af6a831edb9fd473ee36a96c7c1d75|i want her near me.
+彼女に近づいて欲しい
+
+prompt_368358159aa69bf1bfdf73b8794d8678|he asks for an apple.
+彼はリンゴを求める。
+
+prompt_7e62be94ccb60d6f4460fcbeff64da71|we believe.
+私たちは信じています。
+
+prompt_3b74d95f7a39aa62e838d07f6aa613e6|where are you tonight?
+今夜はどこだ？
+
+prompt_41f76de13098888694db66c6e5c96401|she makes a sandwich.
+彼女はサンドイッチを作る。
+
+prompt_ebdc71387a5378d724d5ab7569c431de|i find it.
+見つけた
+
+prompt_b8db547d66b11f62923c8697ae3af5fb|you speak soon.
+あなたはすぐに話します。
+
+prompt_73b9035f71aceee1ee1bdc35df2582a5|what does she have?
+彼女は何を持ってる？
+
+prompt_f113362908ab61ac280c3cc6d435d57c|you have to increase the time.
+あなたは時間を増やす必要があります。
+
+prompt_901bcb0b0486e96b1de82171d6b4f02d|that is worth it.
+それはそれだけの価値がある。
+
+prompt_85a3be449f97efda84bdbaadab4ffd0a|the man has a wallet.
+男は財布を持っています。
+
+prompt_356024710631abff349302b82c214571|he is rich.
+彼は金持ちです。
+
+prompt_49a9d989f690211f899d1657c5a27e49|what will you make?
+あなたは何を作るのですか？
+
+prompt_9a5daccaff7313ab14a0cf11c4260d29|i will leave it to you.
+私はあなたにそれを残します。
+
+prompt_5b861c4388881daa72e4b4d7ba3388a0|when did they write the letter?
+彼らはいつ手紙を書いたのですか？
+
+prompt_2b1f0e48096475e5af65206d5f12c755|the door is open.
+ドアが開いています。
+
+prompt_ab42f4b45f48f3f581dc056e0db59756|who is the agent?
+エージェントは誰ですか？
+
+prompt_5d10e14b96463e42692676aa5926ed7b|i had a car.
+私は車を持っていた。
+
+prompt_20080bc84dc4a02bb84f4435b54d515f|everyone likes him.
+誰もが彼を好む。
+
+prompt_f13acdab679ed7376a63322d8634a82d|the accident happened late at night.
+事故は夜遅く起こった。
+
+prompt_d46270576c792683e5d9c28df2caca64|i have the fork.
+私はフォークを持っています。
+
+prompt_ee716b4c3331ddcdd3f51705190ab902|we are going to follow you.
+私たちはあなたに従うつもりです。
+
+prompt_0c95b93b003a6603b83c76124564ce6f|what did she say?
+何て言ったの？
+
+prompt_939fa9f5f65b68bb136a796ebbc99df5|do you have an umbrella?
+あなたは傘を持っていますか？
+
+prompt_a944fda6b991705df71442471e236f76|the lunch begins.
+昼食が始まります。
+
+prompt_27f78c4552eb371f512db6b50b8d5d6a|children like to play on the beach.
+子供たちはビーチで遊ぶのが好きです。
+
+prompt_b9bd5dfccad61e8ed3ac424df321f78c|you look old.
+古く見える
+
+prompt_80b7c9316b3f634a4b29950a8d661c00|let me explain.
+説明させてくれ
+
+prompt_7654d300256b0aa5cb86c1ea62042597|pass me the sugar.
+私に砂糖を渡してください。
+
+prompt_3eb2cb151f295fc36a2f0fc5b172b929|he will miss his mother.
+彼は母親を見逃すでしょう。
+
+prompt_75c5ce834c3fc5e8f57b6c7faddefff3|i will let him drink.
+私は彼に飲ませます。
+
+prompt_d7f436fa11dbe22fd3c92b97d36a4f84|i read a magazine.
+雑誌を読んだ
+
+prompt_a9063a0e865817cf2c6a5a22ef736ec5|she would have returned.
+彼女は戻っただろう。
+
+prompt_fa7d542692df639091393ea6e5a6720d|the soil needs water.
+土壌には水が必要です。
+
+prompt_46c47230891b9c6c785b38cfb1bc58c3|he is a modern man.
+彼は現代人です。
+
+prompt_39475173585bb44c642e28b176d66747|we had cut the bread.
+私たちはパンを切っていた。
+
+prompt_facbd74abd92bdc1f895563532c84644|what is that?
+何だ？
+
+prompt_c9f4af7753f7992dd74535259ea8c4a1|i trust my parents.
+私は両親を信頼しています。
+
+prompt_66c636c1b3d87ef171e57d0fe437b53c|where is the station?
+駅はどこだ？
+
+prompt_19868d35d10a1f2353575e3e5fa0d1fc|i am fine, thanks.
+私は大丈夫です、ありがとう。
+
+prompt_219579658b6d4683a97cd3fff01803ec|the dress is pretty.
+ドレスはきれいです。
+
+prompt_fb8500683e666352c6e78626f3399e4f|for years
+何年もの間
+
+prompt_1541b576cfff34e2d7f26ec7ef14d6b6|my father is a lawyer.
+私の父は弁護士です。
+
+prompt_76307e6791642e36689f4b4bb5ad3ca6|the team has twenty members.
+チームには20人のメンバーがあります。
+
+prompt_44288c1684ee4604e363c0d0d65c2013|does she play tennis?
+彼女はテニスをしますか？
+
+prompt_3fdddc9ae880f107f48c6e29fe9c06c3|he has a dog.
+彼は犬を飼っている。
+
+prompt_95f684faf155d7a8c41f3f165c4816b1|he returned.
+彼は戻った。
+
+prompt_1cd5af649f1ed736dc31499c99876117|sunday follows saturday.
+日曜日は土曜日に従います。
+
+prompt_9df9c20afe27bd70029ce7619617504b|he studies after dinner.
+彼は夕食後に勉強します。
+
+prompt_97969f9b15039540c283be86a373b97a|the man appears serious.
+男は深刻に見えます。
+
+prompt_966950004041ee64ade0f65da16b5d9e|a community is important.
+コミュニティは重要です。
+
+prompt_21b3466b9d3446047d6ac0f5fcc6ed31|he needs more practice.
+彼はより多くの練習が必要です。
+
+prompt_1acbe58de038ca7660df0567bfe1c959|this is the last match.
+これが最後の一致です。
+
+prompt_6ea42d6dc6a51f469b2e2adf76ffd65e|he tried the chicken.
+彼は鶏肉を試した。
+
+prompt_ea1effed1446376b3576c18c5f0ea282|which is your suitcase?
+スーツケースはどれですか？
+
+prompt_978ae1e790aef8121ca6d9e52e370b3b|yes, i am taro.
+はい、私は太郎です。
+
+prompt_7f8dbbe5d250b52a0d8e9bf1d9799d2e|he will offer us water.
+彼は私たちに水を提供します。
+
+prompt_afccfcc6d8fb797d9cf7e54bc0e92fe9|do you believe in his existence?
+あなたは彼の存在を信じますか？
+
+prompt_74e05f71da34a4052491884670c232a1|who is going to win?
+誰が勝つために起こっています?
+
+prompt_c358ca12c371e07d2636c8c33d62b715|i will want more water.
+もっと水が欲しい
+
+prompt_1020bbd3f5132525fc3dec6ddb189be9|today is a special occasion.
+今日は特別な機会です。
+
+prompt_134ae4e9ddfa87452f39d23d7cdda983|i am smaller than you.
+私はあなたより小さいです。
+
+prompt_fcec64f022c4b1d22258c885b445adb7|do you like japanese food?
+日本料理は好きですか？
+
+prompt_ee9f003e3173e54feb5458306660623e|i take them.
+私はそれらを取る。
+
+prompt_98c53ae2041f5bbc7da0829a0f13a5b6|we eat the duck.
+私たちはアヒルを食べる。
+
+prompt_8010394cd2f8ca276edc11d8d3cd9986|i have my suit.
+スーツを持ってる
+
+prompt_2bc47bb2811e20cd581405679ab30f16|my dad has the battery.
+私の父はバッテリーを持っています。
+
+prompt_65cf6e7fd21a67fa2abb9ab040500c02|she plays that instrument.
+彼女はその楽器を演奏します。
+
+prompt_46009fb7a884c66fb98b668c75eb7049|i am their agent.
+私は彼らの代理人です。
+
+prompt_da9c16b8739c1499a3f50f5a453ba35a|where is your father?
+お父さんはどこ？
+
+prompt_e57358f9cc97a21884aacb3d228459ca|i cannot avoid the traffic.
+私は交通を避けることができません。
+
+prompt_5532626300b3925db3dd9f1364760817|i want to see your tongue.
+お前の舌を見たい
+
+prompt_f287f17522292d693c88a429e0f4c647|i am a police officer.
+私は警察官です。
+
+prompt_1737ab9b1687b244ce493c43514cbe52|the camera is black.
+カメラは黒です。
+
+prompt_870d9e90277408138bd15d0eb935c49d|he has sent two letters.
+彼は2つの手紙を送った。
+
+prompt_1728a24bb4428451ac2ef95dc571a0ed|does he have dogs?
+彼は犬を飼っていますか？
+
+prompt_a603da7de1794274404f7b843a862ada|the child is short.
+子供は短いです。
+
+prompt_df74903e953570131082ed606b89a229|we have children.
+私たちは子供がいます。
+
+prompt_7517528285650532dcf28193818dda0d|when i cook, he eats.
+私が料理するとき、彼は食べます。
+
+prompt_8b22b14c090c641d98e984289eb0360e|she took care of my dog.
+彼女は私の犬の世話をした。
+
+prompt_a975479b9827bf42d861e432436d0aae|we said that.
+そう言ってた
+
+prompt_f60a03b70a18d460d916b1d702cd8c26|we drink beer in october.
+私たちは八月、ビールを飲む。
+
+prompt_304f681448e748eb2a52dd424e087ed3|the french competition is important.
+フランスの競争は重要です。
+
+prompt_5bf88b0ade0a9a7f6a4ad1c6f04b47ec|i am not going to feel responsible.
+私は責任を感じるつもりはない。
+
+prompt_d167b113400f855c48086886ca2f456d|it is not convenient.
+それは便利ではありません。
+
+prompt_25e91a5fd36f52a5e67d358be0b2a700|does he have a coat?
+彼はコートを持っていますか？
+
+prompt_c67e969c802f542bd915f7689c6339f0|he finally found the car.
+彼はついに車を見つけた。
+
+prompt_fcdce5ccef18d2a33d9e609dce35cae3|she walks by me.
+彼女は私によって歩きます。
+
+prompt_f86b23c9b8cf465a44b4282fb5334e10|that is my application.
+それは私のアプリケーションです。
+
+prompt_9cb25ec2ed968243186d5d50f4028921|taro is a student.
+太郎は学生です。
+
+prompt_ceb2034e13f6bcada5b5cb8bd7817da7|there is conflict in that country.
+その国に紛争があります。
+
+prompt_5a390bcf22aa1db0d1a0ea5df0dadd86|our aim is to find something new.
+私たちの目的は、何か新しいものを見つけることです。
+
+prompt_91e6c7df0faab4a73db79115ea4a10d5|you will know everything.
+あなたはすべてを知っているでしょう。
+
+prompt_99c225e6c81bfa3a29a76b954ab7c8e3|we had animals.
+動物がいた
+
+prompt_5b2bb4a75801fe0046f60e297ca981c8|she calls the police.
+彼女は警察を呼ぶ。
+
+prompt_785f11bb3d38707067f88640870d1a59|and you?
+君と？
+
+prompt_3f109cbe42dd023dcc9c844ae82b49dd|this is what he is doing.
+これは彼がやっていることです。
+
+prompt_5c576519796971f5279d13f583ec08a2|my uncle produces wine.
+私の叔父はワインを生産しています。
+
+prompt_2f7959f69690ae9e5971ec8f89780ce1|the trend is clear.
+傾向は明らかです。
+
+prompt_1cb623f96f2450d2adfde98208818747|do you have a special book?
+あなたは特別な本を持っていますか？
+
+prompt_003128f1539eb34425a2d374b6ca28fe|she supported her father.
+彼女は父親を支持した。
+
+prompt_e21e049f0bfb1cef73c396b29175df58|i will exercise every day.
+私は毎日運動します。
+
+prompt_c4a8b691715eb3b42255130ad0380a56|he has not asked yet.
+彼はまだ尋ねていない。
+
+prompt_4a6e4a420969149c9fc39d2bd352acea|it is going to rain this afternoon.
+今日の午後は雨が降るだろう。
+
+prompt_cafa0eed7efb8f94f0debc5f389d1980|i eat sugar.
+私は砂糖を食べる。
+
+prompt_8ad484dbb77e329537c72867c5d63488|do you have toothbrushes?
+歯ブラシはありますか？
+
+prompt_03d17afccd56bae8af6ce4cbbab35162|you are touching me.
+あなたは私に触れている。
+
+prompt_89b58142aea671990097f809433eaada|it is my land.
+それは私の土地です。
+
+prompt_b7efa87c879c60b538ef601eb50434e2|the horse eats the apple.
+馬はリンゴを食べる。
+
+prompt_ae942155772d9aa978af1feaed6adcff|he is going to assume i am happy.
+彼は私が幸せだと仮定するつもりです。
+
+prompt_2f06963532f33cdce36b68a6c83bb52f|we work in the same department.
+私たちは同じ部門で働いています。
+
+prompt_af22f9940c90a1dbd4bddfdefc1966bc|i do not believe you.
+私はあなたを信じていません。
+
+prompt_c1836fda2dae233766f310aca2626e87|i am at home.
+私は家にいます。
+
+prompt_a672e8184f3caeff42fbfb916f335cbb|what is the depth of the pool?
+プールの深さは何ですか？
+
+prompt_75617ae9274ff7c0bc594c14123bd057|the bank is on the right.
+銀行は右側にあります。
+
+prompt_570c614ac59d93f63834f83c3fe518b0|we are basketball players.
+私たちはバスケットボール選手です。
+
+prompt_eab9025473a0a93ed3de3c7d323b6e84|i will have returned.
+私は戻ってきました。
+
+prompt_01011447a3986e372ae6ebebf8aca16a|my pig eats the roots.
+私の豚は根を食べる。
+
+prompt_50ee0bf5ae9945e70c6debf41e81540d|they have to discover good food.
+彼らはおいしい料理を発見する必要があります。
+
+prompt_6af67a52028ae8573be01aad09ec9505|i had not eaten since tuesday.
+私は火曜日以来食べていなかった。
+
+prompt_2f514b4f0b800c95493c498978683f70|for over a decade
+10年以上にわたり
+
+prompt_6f506b18ab6bdebb67ecbb6eb43d33ba|do you want me to answer the question?
+質問に答えてほしいですか？
+
+prompt_7f6eb0230f20c45319ba4e91003f9cf5|the island is always there.
+島は常にそこにあります。
+
+prompt_93a6e8439286c5c694f27b13638151b0|my shirt is orange.
+私のシャツはオレンジです。
+
+prompt_bb12af3739032c9ea722efa7680b8f6e|it is possibly an elephant.
+それはおそらく象です。
+
+prompt_52fe10863a8c367b1c166b6f80dbaf0d|i have not ordered wine.
+私はワインを注文していません。
+
+prompt_344997177386c24170e24994f95da78b|they want to change these laws.
+彼らはこれらの法律を変更したい。
+
+prompt_cdf46624687a50407ffe50ba166d7f70|are you a boy?
+あなたは男の子ですか？
+
+prompt_e64da9e9cdef1a5b1b4cb4f486e84001|how did it happen?
+どうなったの？
+
+prompt_4b48a6e8879e7ea0c4de4ca33313cd57|i am a student.
+私は学生です。
+
+prompt_5e4ccda70667cb309896a036b057437b|we have no opportunity to use english.
+私たちは英語を使う機会がありません。
+
+prompt_71d3e8b42792b5e476804f4f7fbddc58|thanks
+ありがとう
+
+prompt_cb4f08b3fbd603fbdfc29c8a0260df5f|the boy tries the shoes.
+少年は靴を試みます。
+
+prompt_08305d97b29b8d0ebbe52fe7eca52a17|he put the book on the table.
+彼はテーブルの上に本を置いた。
+
+prompt_84b4c85a9c6e2262dfad7e80a7544352|we have thirteen cats.
+私たちは13匹の猫を飼っています。
+
+prompt_5fc11124e590c3396c7c5e6c80338dfa|i am going to remember peter.
+ピーターを覚えてるわ
+
+prompt_1af272fbe310b2cb78957f7cf1b51b19|she entered the restaurant.
+彼女はレストランに入った。
+
+prompt_babde18f952b14d6831825a1d89f5828|it is the main character.
+それは主人公です。
+
+prompt_bfc0a879b597ca05bb71b1fdd09d1bc3|i will finish reading this letter.
+私はこの手紙を読み終わらせます。
+
+prompt_cfcc1aace7589fdda5e2b274c95e9929|she found another path.
+彼女は別の道を見つけた。
+
+prompt_fff1b6512043657848139d235bd10567|the animal plays on the ground.
+動物は地面に遊ぶ。
+
+prompt_520e97fc01da434de8426ba819720e07|i want to live.
+生きたい
+
+prompt_7d120d40994dac490161c7c1d4a8ee9f|that girl has become a beautiful woman.
+その少女は美しい女性となっています。
+
+prompt_e128e8291432f755c9319059b56360c7|that car does not exist.
+その車は存在しません。
+
+prompt_f7ab2dd48d9a5189dbd307e923e44df6|food is in these boxes.
+食べ物は、これらのボックスにあります。
+
+prompt_8669daae1b5c155f43f14a1e7b73baf5|he likes cooking for his family.
+彼は家族のために料理が好きです。
+
+prompt_61f761c60e7264d08b5d2a7a1e8de8d8|to the front
+フロントへ
+
+prompt_2a1afb17ce9d6713de2828ebf0c409fa|he is a football coach.
+彼はフットボールのコーチです。
+
+prompt_03c5d33d762c378b6eef5456737bcd5d|i am on the phone.
+私は電話でいます。
+
+prompt_c6f27726f681de463134f0f221a1f40b|i am like you.
+私はあなたと同じだ。
+
+prompt_e2f5e7995ad4491ebe821dd883b9d402|what did i have?
+私は何を持っていた？
+
+prompt_de6e5a36e878610d9d96c777a32181bf|your skirt is out of fashion.
+あなたのスカートは流行していません。
+
+prompt_69aaf8662b4dfbb3832e4f76e4ccdadb|i want something sweet.
+甘いものが欲しい
+
+prompt_52f6ae190535b019dba6331823341886|he eats a banana.
+彼はバナナを食べる。
+
+prompt_a8dbbc0f5bfa3b20951b29fe3c8dd08e|i do not know your size.
+私はあなたのサイズを知らない。
+
+prompt_edad1f75a929e91bc194a7fdde78bec4|i have a computer.
+私はコンピュータを持っています。
+
+prompt_64bae72d3563dc4662b845dcf2234120|i lost myself.
+私は自分自身を失った。
+
+prompt_24b3b10880a6a8cd954a84f0f598c258|they give me water.
+水を与えてくれる
+
+prompt_b5052a05bb1e098f77b8d0a61cfcfdf2|the animal searches for water.
+動物は水を検索します。
+
+prompt_3cf536011bbc736be52eb456f3d447e3|she has sixteen cats.
+彼女は16匹の猫を飼っている。
+
+prompt_7ddcfe8beb43b59cb99ad334b105d0ea|my dad eats fish.
+父は魚を食べる
+
+prompt_35c9abe6a14a1ad2097806796b6f9c9d|we drink water.
+私たちは水を飲む。
+
+prompt_48fd9c334eb0a6e2aed8d52d0c3eae73|a conversation with the author is long.
+著者との会話は長い。
+
+prompt_59b322026ae7fd10bfe4037de6c74a4e|germany is at the center of europe.
+ドイツはヨーロッパの中心にあります。
+
+prompt_9638dd9854b06a33c49e15e408c817e8|i had established a new record.
+私は新しい記録を確立していた。
+
+prompt_01d4991a16a676e40b483870697da374|he beat his brother.
+彼は彼の兄弟を打ち負かした。
+
+prompt_b0813e22db242be77c8d1f10c9ef5c2b|someone is following me.
+誰かが私をフォローしています。
+
+prompt_f792acc572fc56e6ae7506993dc54bb5|it is the same.
+それは同じです。
+
+prompt_2864224336d617c16cef9f71013a1337|she is as beautiful as ever.
+彼女は相変わらず美しいです。
+
+prompt_5acb42cdfc40aa82ec33ba4a4380c8fa|there is a problem.
+問題があります。
+
+prompt_016642b781389262245e175fb5ff206a|he has a pain in the chest.
+彼は胸に痛みがあります。
+
+prompt_9d27ac62ec9e3cfacad5f9a51c8fcd1f|the activities happened in october.
+活動はオクトーバーに起こった。
+
+prompt_fe82b3fc0cf395fc88f23831fd5c23fd|my hat is green.
+私の帽子は緑色です。
+
+prompt_64962c15d2a3b84d363336f0e4f6750b|the building is yellow.
+建物は黄色です。
+
+prompt_2f5b10d7905d6d10790e092a056b73cc|her vision is normal.
+彼女のビジョンは正常です。
+
+prompt_ea2e79685cb4ae47c20d1ab549f2462a|a girl walks.
+女の子が歩く。
+
+prompt_8230ab284bdab74b10d923a57a281b97|my daughter does not know how to count.
+私の娘はカウントする方法を知らない。
+
+prompt_98a8c5ba302996af9d423415e2af3296|he has twelve sons.
+彼には12人の息子がいます。
+

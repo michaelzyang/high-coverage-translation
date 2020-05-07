@@ -1,0 +1,1500 @@
+prompt_244b644870758b4c2211d3948d98abcd|that is an efficient model.
+이는 효율적인 모델입니다.
+
+prompt_f36f6f6cb230584e2a329fc59bb382fa|he will write a book.
+그는 책을 쓸 것이다.
+
+prompt_8255cf910a9b706ab7d26d5187d76019|what is the strategy of his campaign?
+그의 캠페인의 전략은 무엇입니까?
+
+prompt_59ee4163575811a1f54ca8621ef197af|i like winter.
+난 겨울을 좋아해
+
+prompt_0629b832f290adcaee9b0a65e10c2f22|i will lose my house.
+나는 내 집을 잃을 것이다.
+
+prompt_42da09408aea7273659db861ddca2c00|the plane is red.
+평면이 빨간색입니다.
+
+prompt_4fc0337d2d4ee821e5ca7722d41ebc5c|he is tired.
+그는 피곤해.
+
+prompt_a6b67a80f3fa07eedca4f6380b546a3e|the public bathrooms are here.
+공용 욕실이 여기에 있습니다.
+
+prompt_86b937da57fb7e56f7cc4b57382d3a93|i like castles.
+나는 성을 좋아한다.
+
+prompt_8650241471d17c7edd0aeaff010dfc86|nobody has played with the dog today.
+아무도 오늘 강아지와 함께 연주하지 않았습니다.
+
+prompt_7da85fb4cc6a3c29d47498554dd6fc25|there is no research about this.
+이것에 대한 연구가 없습니다.
+
+prompt_56fdfdf41279bcd6d4d02eb222bf15ad|the cat drinks milk.
+고양이 는 우유 를 마신다.
+
+prompt_39134830921d3e5b5ff2e1a76973a09a|those books are popular.
+그 책은 인기가 있습니다.
+
+prompt_5074e2480e7a4dbdf972eb3a8525b806|i am going to define it.
+나는 그것을 정의 할 것이다.
+
+prompt_89ebc75dbe952fc9db5d36722d59e49a|i know him.
+난 그를 알아요
+
+prompt_03346b5be451292fbc04c5d156b50688|i remember her dress.
+그녀의 드레스 기억해요
+
+prompt_e791d51111fc5e778b23d59dbcf31a6a|he receives the keys.
+그는 열쇠를 받는다.
+
+prompt_3ba790d48003ba07bcf104ba642f6c16|we do not like change.
+우리는 변화를 좋아하지 않는다.
+
+prompt_ea1effed1446376b3576c18c5f0ea282|which is your suitcase?
+그것은 당신의 가방입니다?
+
+prompt_88179d18f7e60e491bb5a074dd24c9ec|age is not important.
+나이는 중요하지 않습니다.
+
+prompt_f13dcfa23530b2abec93b334f1c1e02c|i am giving them tea.
+나는 그들에게 차를 주고있다.
+
+prompt_2838d5a0e56d6918cfa24559108d0996|i know that he is watching me.
+나는 그가 나를 지켜보고 있다는 것을 알고있다.
+
+prompt_8db99642316d7a3f525dbf5f5f3a4577|she puts her coat on.
+그녀는 코트를 입는다.
+
+prompt_1764c4abefbf8312c9405a95858b6e7c|he wears a hat.
+그는 모자를 쓰고 있습니다.
+
+prompt_1d465dbfa72949f644ff5dc88e310498|what is the next step?
+다음 단계는 무엇입니까?
+
+prompt_8739a7d85a4da775d35b537719e063f4|it is my umbrella.
+그것은 내 우산입니다.
+
+prompt_eeeb0dac0d55273fb4d758b73c7f4c29|i read them.
+저들을 읽었어요
+
+prompt_8a567848a569a07080ae501fe98229a7|i eat an egg.
+난 달걀을 먹는다.
+
+prompt_d6cbf3f4ca56ebf75fa497c47700866b|the enemy has reduced us to half.
+적 절반으로 우리를 감소했다.
+
+prompt_83606a98b1be8cec6c51329bb349f4b3|read the open books.
+열린 책을 읽으십시오.
+
+prompt_6628ca2d203b625b23d43d1057c7acb4|thanks for the effort.
+노력에 감사드립니다.
+
+prompt_6977aac00eeb9a0f68a452ab5f107303|the parents raise their son.
+부모는 아들을 키우십시오.
+
+prompt_84ddbcbdc2838c00d88bdda7369cf985|do you have professional experience?
+당신은 전문적인 경험이 있습니까?
+
+prompt_66efaa1702eb85340729a56c8efe5ec5|is she pretty?
+그녀는 예쁘다?
+
+prompt_723e8c58236815430ead341e762bf6ec|the plane had already taken off when i reached the airport.
+내가 공항에 도착했을 때 비행기는 이미 이륙했다.
+
+prompt_befe7f5f8b3bdc4e4848a016cf86905b|do not touch me.
+날 만지지 마.
+
+prompt_b475577c7fac38599b1b180b92929de8|his last attempt is really interesting.
+그의 마지막 시도는 정말 흥미 롭습니다.
+
+prompt_02d8cdd5de8d1e1a2ebd7b2323458c5f|boys drink water.
+소년들은 물을 마신다.
+
+prompt_599c65ca0c2a328951996eb58c467928|the man eats rice.
+남자는 쌀을 먹는다.
+
+prompt_b47bc4ca38b5c754ecc9df684c54c03f|he watches the birds.
+그는 새들을 지켜보고 있습니다.
+
+prompt_e45b04a8576ced3dfcf052fdde06c81c|the sight
+시력
+
+prompt_10ba9204c6ed1c8d253910d0ffdb460b|members of these organizations are young.
+이 조직의 구성원은 젊은.
+
+prompt_71673c129f6e1249ee059470fe71b1e9|i am tired.
+난 피곤해
+
+prompt_6f92e0a3fa9ea82a0099d4c97b78dc05|sleeping is important.
+수면은 중요합니다.
+
+prompt_341ffcb484080570dbb10ae439e814da|the book is by the newspaper.
+이 책은 신문에 의해입니다.
+
+prompt_986fc3c1dbbde98353ee7063150fd173|the boy is tall.
+그 소년은 키가 크다.
+
+prompt_5798cc09ced1216fccabc3ff61d94505|who does not like power?
+누가 힘을 좋아하지 않습니까?
+
+prompt_cb5a751b7b804cbd84f6cb3a88e92eb7|the soldiers walk with the students.
+병사들은 학생들과 함께 걷는다.
+
+prompt_3da1a075d54b01372503f2837b192e8c|did you see her?
+그녀를 봤어?
+
+prompt_23ede6ac920faf07b393ae7e7b7b9671|try the cheese!
+치즈를 시험해보십시오!
+
+prompt_31d245dc117d9b266bab05bb58f461ff|where are you living?
+어디 사는거야?
+
+prompt_865474e0c82d4411994fe23fc501d5e2|the night comes.
+밤이 온다.
+
+prompt_ff3e94efd7b0893702407ee0a60e352f|he is older than her.
+그는 그녀보다 나이가 있습니다.
+
+prompt_7b96a798fbb7ac1335ed61fff092fa0b|she uses my name.
+그녀는 내 이름을 사용합니다.
+
+prompt_c63cb2b8e968a7715a36a5f00ad2fd7e|an umbrella
+우산
+
+prompt_ce1645428ed26ee7d155dcce7b2c8358|spring is a season.
+봄은 계절입니다.
+
+prompt_85c4f30ce90d0226e18ccaba0b289e07|he has many possibilities.
+그는 많은 가능성을 가지고 있습니다.
+
+prompt_2bbfa18af155bad208621ee1adcfb11a|my dad is famous.
+우리 아빠는 유명해요
+
+prompt_d3bfdad710c6ba9c3252485c4404a0b9|write a report.
+보고서를 작성합니다.
+
+prompt_e910c51140a533bc64393d7c50da9bed|she is going to want another skirt.
+그녀는 다른 치마를 원할 것입니다.
+
+prompt_7c166fba7a93633e5c99eb7c0a5fa29a|she hears us.
+그녀는 우리를 듣는다.
+
+prompt_7a1530e0dee9d2a7f32857e655e91a4b|she works for an international foundation.
+그녀는 국제 재단을 위해 일합니다.
+
+prompt_0f8fe6cb1cac7d9893c4f824dde241a2|her dad is there.
+그녀의 아빠가 거기 있어요.
+
+prompt_64fda155d074b4e644740978642486bd|the girl drinks juice.
+여자 음료 주스.
+
+prompt_1cf929b276beb27b27e119b703f9a34a|she signs.
+그녀는 표지판.
+
+prompt_539e16576742d354b3b57443f3e76dd5|my mother likes to cut my father's hair.
+우리 엄마는 아버지의 머리카락을 자르는 것을 좋아합니다.
+
+prompt_d4725dd657305c4b86a6457bdc98ccf3|the budget for the new school is not enough.
+새 학교를위한 예산으로는 충분하지 않습니다.
+
+prompt_8d2155575093f19a4e24dad0631aef91|they drink a beer.
+그들은 맥주를 마신다.
+
+prompt_19d26b927494d98a2b60a657d13faa17|i drink beer.
+나는 맥주를 마셔.
+
+prompt_daeec64dba255e6b9ae80cbf6287362c|i did not use your spoon.
+나는 너의 숟가락을 사용하지 않았다.
+
+prompt_af9eba8071e55511be84fa4904b0bfb3|your brother won.
+네 동생이 이겼어
+
+prompt_4a1964b4d3a3ea07d5a42b33d6ddc514|he likes to listen to the radio.
+그는 라디오를 듣는 것을 좋아합니다.
+
+prompt_cc63f9b99409b71fb1fa55ca9d71ea9d|stop your vehicle!
+당신의 차량을 중지!
+
+prompt_f57baf24e6cfb6e4bf87754cbd2b829b|i want to go for a walk.
+나는 산책하러 가고 싶다.
+
+prompt_0270b58a92107f1008e6eefad763ffcb|i saw him running.
+도망가는 걸 봤어요
+
+prompt_94c179574741609419abf0976757b93a|a child is born!
+아이가 태어났다!
+
+prompt_c7d682a065410232d1f3f1bcc0ed4346|he tried.
+그는 시도했다.
+
+prompt_21498baa742f9cff3304e3a6d6564ea5|her wealth is big.
+그녀의 재산이 크다.
+
+prompt_17832b4047b9649c5373479db1d0c156|we live in the age of technology.
+우리는 기술의 시대에 살고 있습니다.
+
+prompt_8458976f29627ade8c0beb945d2fee53|we will find the hotel.
+우리는 호텔을 찾을 것입니다.
+
+prompt_149dc77b4d3bec37d228905dac1b2e64|we like germany.
+우린 독일을 좋아해요
+
+prompt_ba97855f2e80c7d2e1e087f1832b3a29|she is currently a secretary.
+그녀는 현재 비서입니다.
+
+prompt_cfeda80cc3641e2504a33b24b30ef1ac|life is too long.
+인생은 너무 길다.
+
+prompt_344a6987472abf83857611229657a24f|he took us to the zoo.
+그는 동물원에 우리를 데려 갔다.
+
+prompt_cb09eb565e91342b07ad26676a648757|this is the last order.
+이것은 마지막 순서입니다.
+
+prompt_6254c4f55a35394fdbb9f55f0973bf6b|i eat dinner.
+나는 저녁을 먹는다.
+
+prompt_00ef04b8adfe6c19da3ec420c50b0b1c|he writes that he loves her.
+그는 그녀를 사랑한다고 씁니다.
+
+prompt_5f88b040b5b4cf9703fd27e83712ba1f|there is no communication.
+의사 소통이 없습니다.
+
+prompt_b7d02967fb6b5e760f8f283f4680e156|the bag is red.
+가방은 빨간색입니다.
+
+prompt_91e6c7df0faab4a73db79115ea4a10d5|you will know everything.
+당신은 모든 것을 알 수 있습니다.
+
+prompt_065635209a9b168d0dcdacc2d3217f72|i can try it.
+나는 그것을 시도 할 수 있습니다.
+
+prompt_ce5d9a7f60df4eebb55024d15ab8c519|their analyses are good.
+그들의 분석은 좋다.
+
+prompt_bd2e1a6e8baf1ea68b504e333ff316b8|i drink the oil.
+나는 기름을 마신다.
+
+prompt_23e42b95bbf0793ca8977a32a8c459bd|the coat is purple.
+코트는 보라색입니다.
+
+prompt_78dc3e29c3013744c495c1ffdf3ec1e8|i am portuguese.
+저는 포르투갈어 입니다.
+
+prompt_46b939992e380b83d00cb70158ae5390|i like that.
+맘에 들어요
+
+prompt_ed53fa897bdd3118cfb77ef854938f21|the boy is fast.
+그 소년은 빠릅니다.
+
+prompt_07c4bfaf852b37bea43c15df5b1cf1b7|she studies photography.
+그녀는 사진을 연구합니다.
+
+prompt_2237df5d45d6a65fe2cee60aa34d5cf9|we have to pay for the equipment ourselves.
+우리는 장비 비용을 스스로 지불해야합니다.
+
+prompt_50fb958a9b4a16a29fd0ca6a5c0ace74|she returns the hat.
+그녀는 모자를 돌려 준다.
+
+prompt_32db6e29d3aaa12e74cdba1be8583d4e|i am going to eat.
+나는 먹을거야.
+
+prompt_784fd6469e4cbb3733e3e5a0a3bae9e3|it is not tea.
+그것은 차 아니다.
+
+prompt_a7f783974bfeb12c67c091d3f311ce67|they sign the book.
+그들은 책에 서명합니다.
+
+prompt_35506813806fb8ec48d098f06862a709|they do not allow cats.
+그들은 고양이를 허용하지 않습니다.
+
+prompt_b708570e05f872c37c6efd52328bfd3a|i am from argentina.
+나는 아르헨티나 출신입니다.
+
+prompt_cb547a917fbb7f9f2b05d0b79e9d8a21|where is she?
+그녀는 어딨어?
+
+prompt_d0954b5a599e8a3f4c290b9a75b99021|he has three big sisters.
+그는 세 큰 자매가 있습니다.
+
+prompt_ae942155772d9aa978af1feaed6adcff|he is going to assume i am happy.
+그는 내가 행복하다고 생각할 것입니다.
+
+prompt_61e1d5ea93f1fe1854f23b352bd05002|the tea is cold.
+차 는 춥다.
+
+prompt_8bdedf2c73a89e7d4d27c110fdc8c6d6|they believe us.
+그들은 우리를 믿는다.
+
+prompt_28830b0a27e04d64963037c5c0fa3bfc|turn left there.
+거기서 좌회전.
+
+prompt_95f3ce5614adeb64c08b223b51f0883e|the girl eats the strawberry.
+소녀는 딸기를 먹는다.
+
+prompt_8c01580de6b7a9a7ca10b520581eb320|it is a familiar moment.
+그것은 익숙한 순간이다.
+
+prompt_e4b8ffe86c1562ae201245b29f34f74a|if you love him, tell him.
+당신이 그를 사랑한다면, 그에게 말해.
+
+prompt_0215d5cbe6be0d0ae15d4b360d82c4ed|he is my younger brother.
+그는 내 동생입니다.
+
+prompt_5f248561b903189331216b8da9fb984e|we find food.
+우리는 음식을 찾는다.
+
+prompt_024875c063ec11b6cca0edbc0fc2155c|it is wednesday.
+그것은 수요일입니다.
+
+prompt_8195fdc1e8d0e7f805a343bf33c4d7c1|did you hear the noise?
+소음이 들렸나요?
+
+prompt_c04313aa075832704cb085b6b9e1d764|i have lost my wallet.
+나는 내 지갑을 잃었다.
+
+prompt_8352dec120d7389e9447acd339524c4a|what is toothpaste?
+치약은 무엇입니까?
+
+prompt_5bdca8608d319ea79317218db220353c|men and women
+남성과 여성
+
+prompt_30550adc4f2f9c4ed63c930cf273d097|the girl eats.
+그 소녀는 먹는다.
+
+prompt_ad6b14a7648c8d443673641d5b43f531|the dress she put on is green.
+그녀가 입은 드레스는 녹색입니다.
+
+prompt_deebb69841c67f4cd968a76e72d0d9bc|i thought that we were friends.
+나는 우리가 친구라고 생각했다.
+
+prompt_1e3a1fe87e3c307f9cfff3b37812026e|my wife has told me everything.
+내 아내는 나에게 모든 것을 말했다.
+
+prompt_a95ede5e48019e0101ab9227d75224ca|where is the bathroom?
+화장실이 어딨어?
+
+prompt_cbad4e818f2107d2fa43e71da4a4d10c|they do not let him have a cat.
+그들은 그에게 고양이를 갖게하지 않습니다.
+
+prompt_e18598dc1eedac3c7a5ff8db36d41eee|you may meet him.
+당신은 그를 만날 수 있습니다.
+
+prompt_af3ade5b7d0d1ea391cbb4a231548665|someone had opened the window.
+누군가가 창을 열었다.
+
+prompt_879aa24ffc5a5096cb872d9cc12099eb|tomorrow i am going to eat fish.
+내일 나는 물고기를 먹을거야.
+
+prompt_2b67259211aac366a528cdba8ff758dc|i cooked rice.
+나는 밥을 요리했다.
+
+prompt_a3231b5bfb6e7c39617cd7c3b39e142b|why did they not like the hotel?
+왜 그들은 호텔을 좋아하지 않았습니까?
+
+prompt_6784406cc205c0da0fd1cfbf75317f40|i do not have your number.
+나는 당신의 번호를 가지고 있지 않습니다.
+
+prompt_f7c683df0bfdcaf72ac907d61017dd21|you are doctors.
+넌 의사야
+
+prompt_96995a83b18b24487c4dd8f04580b617|clearly, you are his daughter.
+분명히, 당신은 그의 딸입니다.
+
+prompt_253d2174b287f44c56b30574b3bead3c|we will have received the keys.
+우리는 열쇠를 받게 될 것입니다.
+
+prompt_9e5d1b142b6cc5c2b31f867ef8ae5c8d|it is your desk.
+그것은 당신의 책상입니다.
+
+prompt_54585b0a09f559cc1b30415ff10b14f2|she had earned their love.
+그녀는 그들의 사랑을 얻었다.
+
+prompt_37887e4e4aaf96cb0e76c92973975753|i want to stay.
+난 머물고 싶어.
+
+prompt_5dedf4171a59b92762d22fcd6b33e3f6|my hat is red.
+내 모자는 빨간색이야
+
+prompt_5ae50f46bdac93a195e2bf976d62b356|he likes beer.
+맥주를 좋아해요
+
+prompt_d42a9078b877c540c77cb7ce7d50d12f|he made one attempt.
+그는 한 번의 시도를 했노라
+
+prompt_e4de564d2bd1b9955bb043d623f762e2|that is going to resolve itself.
+그 자체가 해결 될 것입니다.
+
+prompt_1b1869b979f47b097ced255d0e8d15fe|why are you afraid?
+왜 겁니까?
+
+prompt_3c5d3921682456cbe7d35f89153b93d6|i am european.
+나는 유럽인이다.
+
+prompt_a00933a1e09f5b380488649cf895f03b|do you have a passport?
+여권이 있습니까?
+
+prompt_3f2ac3ff7b3e2b41e4871135006ec2c8|we are still alive.
+우린 아직 살아있어요
+
+prompt_4f0b50b586fa2fe492300984bbec06a6|she does not want to suffer.
+그녀는 고통 받고 싶지 않습니다.
+
+prompt_06b62e91b1c5ffa2f497928c7c3657fb|i like rain.
+난 비가 좋아요
+
+prompt_51d262cc57c78c41ca9ed7a283e8247b|for what?
+무엇을 위해?
+
+prompt_cb1e0b4c0ca3854c9c156faa7fe3376a|thank you for the explanation.
+설명 주셔서 감사합니다.
+
+prompt_4cc195782065afd39d72dc6f4b280c1b|tomorrow it is going to rain.
+내일 비가 올 것입니다.
+
+prompt_c8354349656e7bbbdc5327a02a80cc6d|he did not see anything.
+그는 아무것도 볼 수 없었다.
+
+prompt_3a459dc160d17fb38e37cf1c1a324148|you trust him.
+넌 그를 믿어
+
+prompt_4fefe2b275e36cfe0fbe9df14e9caae1|we have passed the test.
+우리는 시험을 통과했습니다.
+
+prompt_4a1cf8123882d273a101711cfe65b0dc|those are fine decisions.
+그것들은 훌륭한 결정입니다.
+
+prompt_4a663da2ceb4e775ef5029834fb06e0a|the stone is gray.
+돌은 회색입니다.
+
+prompt_6940ae7458988c349b856cceda1bfa39|they give an example.
+그들은 예를 제시합니다.
+
+prompt_727dba6820a5b87bb8f0aac5c0202964|they will not touch you.
+그들은 당신을 만지지 않을 것입니다.
+
+prompt_12b2fc4a8d6216343db2c23333f70489|at what speed does he run?
+그는 어떤 속도로 달리나요?
+
+prompt_e1d3e5cacd20514532c0334c4e030597|they do not have much.
+그들은 많이 가지고 있지 않습니다.
+
+prompt_33c5b15efb10a38b6a03df05a36357c9|go in the field.
+필드에 가라.
+
+prompt_ae3574b85dc287dae1a34d2960f23fd4|the horse drinks water.
+말 음료 물.
+
+prompt_e283b8dd6d3b9a21b81c20aaa9c7892e|they give me a rose.
+그들은 나에게 장미를 준다.
+
+prompt_6b769f2dd96f4bd115e8896986f8930f|his grades are excellent.
+그의 성적은 우수합니다.
+
+prompt_280e4dd5aee3ecfe2622f694519dfcab|we eat a strawberry.
+우리는 딸기를 먹는다.
+
+prompt_ee716b4c3331ddcdd3f51705190ab902|we are going to follow you.
+우리는 당신을 따라갈 것입니다.
+
+prompt_b13695924ff3e2a74c1a6adce8442df0|where is the south?
+남쪽은 어디입니까?
+
+prompt_dd4be057a3698222fd31231c688b1545|he does not have a girlfriend.
+그는 여자 친구가 없습니다.
+
+prompt_4b3a3a69e9ed48aebb4cfe9cf6b44483|he has changed.
+그는 변했습니다.
+
+prompt_71ffae956a8ce8ddcc9f3fc6a9948639|they do not let me read this book.
+그들은 내가이 책을 읽을 수 없습니다.
+
+prompt_dd4a8a18ff4a271c7ccec105c851e054|the access is free.
+액세스는 무료입니다.
+
+prompt_f40cbce03e826a5b9594d9a73f832de8|there is hate there today.
+오늘 거기에는 증오가 있습니다.
+
+prompt_379c8a10ae1132ef1f14fb48c06bda3e|the paths are long.
+경로가 길다.
+
+prompt_d7017caf2bec05bfd6eb60072810d3c5|i like to listen to music.
+나는 음악을 듣고 싶다.
+
+prompt_3f57acec33e223772dc1790a65a93846|you had closed the door.
+당신은 문을 닫았다.
+
+prompt_99f9149bcccc4b348e4c4d941be0a77b|he sets the table.
+그는 테이블을 설정합니다.
+
+prompt_69edc746fa4b9c3ffcebd3993b4c0e6d|it is a sandwich.
+그것은 샌드위치 입니다.
+
+prompt_bcfdc9365eede1c11604bc90632e9e63|she is as beautiful as her mother.
+그녀는 그녀의 어머니만큼 아름답습니다.
+
+prompt_e18c1f5d4d67cfa376e6d184241925db|what is her profession?
+그녀의 직업은 무엇입니까?
+
+prompt_f6bba7463ec6e411dd6fede549f6bddf|the girls drink water.
+여자들은 물을 마신다.
+
+prompt_43f0d28ed388b6f1dc42275c4a924927|today is saturday.
+오늘은 토요일입니다.
+
+prompt_242f009e5ae3b3cfe2a856facfa8592d|i am not going to ask again.
+나는 다시 묻지 않을 것이다.
+
+prompt_8d8c1b1a4a6cdb94ff552c1b2bfb24f6|you are not going to arrive there.
+당신은 거기에 도착하지 않을 것입니다.
+
+prompt_8210b7ec24fc017132dde8be96e5c678|the man eats fish.
+남자는 물고기를 먹는다.
+
+prompt_0b8907623db646c01a96659be37bd4ad|they called each other.
+그들은 서로를 불렀다.
+
+prompt_94a240a113ed957f218f71bff1122b5f|we have lived in england.
+우리는 영국에서 살았습니다.
+
+prompt_719f7c90117e61a93add73558cd00cfc|they have forced the student to study.
+그들은 공부하는 학생을 강요했다.
+
+prompt_bba4e89b71d0d99896af4b81df4b0a8a|except for the beer
+맥주를 제외하고
+
+prompt_20d55a99a417c8b6a3c58c079bc2f362|he is from munich.
+그는 뮌헨 출신입니다.
+
+prompt_7728eadadfee3b0c9c379977b5d280bf|i have nothing to lose.
+난 잃을 게 없어.
+
+prompt_4590554225db9a0bd52c524e476e39d3|i am fine, thank you.
+난 괜찮아, 고마워.
+
+prompt_7facc372d5eee5b9e40f54ec00baa213|the youth eat in the garden.
+청소년은 정원에서 먹는다.
+
+prompt_89ca0700ef552ae73e90b656566468a3|we eat the sugar.
+우리는 설탕을 먹는다.
+
+prompt_d9143480ed13963fb21d963fac1c3cc0|the man is poor.
+그 남자는 가난하다.
+
+prompt_096ca7127c61a30aba2574f2d5f40ceb|the response is different.
+응답이 다릅니다.
+
+prompt_694a0d8ad3f13e0c2201daa7f9425a87|it is a global system.
+그것은 글로벌 시스템입니다.
+
+prompt_9ecda7ff011555662c464c3c6e97849b|they drink wine.
+그들은 와인을 마신다.
+
+prompt_3ca0f42d701e4364c48f1a5accce380e|the fall is from september to november.
+가을은 9 월에서 11 월까지입니다.
+
+prompt_f399e91de6151e8a0250cbacb6d5fa72|they need the job.
+그들은 직업을 필요로합니다.
+
+prompt_90574524e7eecc85b40d98fa22ca384a|do you have a razor?
+당신은 면도기가 있습니까?
+
+prompt_a4706e74650fd1b48ee58568f5de9ce4|it is good material.
+그것은 좋은 재료입니다.
+
+prompt_a63149f99641641b49738aec03be6917|i must go to bed.
+나는 자러 가야 해.
+
+prompt_440857631b7e9fe870f402292f162860|he is in his library.
+그는 자신의 도서관에 있습니다.
+
+prompt_c7239da7872306cf01f81b7964325958|there are seventeen men on the street.
+거리에 열일곱 남성이 있습니다.
+
+prompt_f02f923a824e6a9a32a7900e02c1190b|i do not know how to write in chinese.
+나는 중국어로 쓰는 법을 모른다.
+
+prompt_f4aa99b0d45617bf6777d45f666f1df2|i do not have a cat.
+나는 고양이가 없다.
+
+prompt_1361e34ed551075f44c4a422efa0a776|i meet my father.
+아버지를 만났어요
+
+prompt_7781e1c496d537ee51cbcc56b9c251b4|you turn water into wine.
+당신은 와인으로 물을 켭니다.
+
+prompt_faf2f7ead0c7d68a4d4cae39e62e9be0|i hear her.
+그녀의 소리가 들려요
+
+prompt_b69349947a206ff8f1977c62a7955bfe|i kick the ball to the other player.
+나는 다른 플레이어에게 공을 걷어차.
+
+prompt_5e7ae0342d953a7e990fe414fadf2248|this is my horse.
+이건 내 말이야
+
+prompt_b189c808cd42ab863ca781f3c79a28c3|they have said that he is very rich.
+그들은 그가 매우 부자라고 말했다.
+
+prompt_39ba4acbae0c23b58efba4be34d9514c|he makes lunch.
+점심을 먹는다.
+
+prompt_dcd27c5839ed1d005ad9ad19fa997249|so you have an option.
+그래서 당신은 옵션이 있습니다.
+
+prompt_7e0efb978f44f3dbd4f060146755278f|the depth is important.
+깊이가 중요합니다.
+
+prompt_81da6b1817f5361e6cb5d0dd2a03a9f8|who has allowed it?
+누가 그것을 허용했다?
+
+prompt_6f02ba8981f97859db118c3213df3e44|the girl did not eat fish today.
+그 소녀는 오늘 물고기를 먹지 않았다.
+
+prompt_85507a761284f545fc544c7ed62d88ed|i am thinking.
+나는 생각하고있다.
+
+prompt_36d144294a45ba98bb48bb4e4e3b049e|we had tried to find you.
+우리는 당신을 찾으려고 노력했다.
+
+prompt_9cbc9723e35a9f0c3f4afcd370dde57a|he entered through the window.
+그는 창문을 통해 들어갔다.
+
+prompt_d68fc22ceefea3fc6b12adf104ab0627|your answer is wrong.
+당신의 대답은 틀렸다.
+
+prompt_213888ef9764c3036ea3b11c0de16b97|the woman writes the book.
+여자는 책을 씁니다.
+
+prompt_77859fa2501c0ea42a7775ca1e74285e|he lost his direction.
+그는 자신의 방향을 잃었다.
+
+prompt_61209db6c0f5aeb1a78d6d6c02e14668|it has not rained all day.
+하루 종일 비가 내리지 않았습니다.
+
+prompt_8f12e5e7e508ff8105ace6edec0c3acc|my dad is a famous lawyer.
+우리 아빠는 유명한 변호사입니다.
+
+prompt_0f49333bfdfcebe4570f68f31ced8615|i love him a lot.
+나는 그를 많이 사랑한다.
+
+prompt_7afaa40d2064d83c76c9637f1405d487|he is sleeping while i cook.
+내가 요리하는 동안 그는 자고 있습니다.
+
+prompt_1085539cbe40146d8267689a73108690|my wife is chinese.
+내 아내는 중국인이야
+
+prompt_a1b3240e986c8984938fceb47f132f10|the man eats an apple.
+남자는 사과를 먹는다.
+
+prompt_3c0a4cf1c5383bd28d4a9a2fcc61e311|i will have died.
+난 죽었을거야
+
+prompt_857c20908f36d2ca240be618a3f565ee|i will go to sleep.
+나는 자러 갈 것이다.
+
+prompt_daac5ca3c66d1e416e9756cf6a80b7ed|and she goes.
+그리고 그녀는 간다.
+
+prompt_38dbf009c5a16a8a782103a347c8e176|the horses drink water.
+말 은 물 을 마신다.
+
+prompt_f3145ec6c6534f4118d659143169ce00|a blue skirt
+파란 치마
+
+prompt_207488ac5494942ac6f1acce7948cac4|they drink water.
+그들은 물을 마신다.
+
+prompt_7b2bdc04a65f74507c8056f00dbec3e0|they have put their pants on.
+그들은 바지를 입었다.
+
+prompt_0a953aad9568f3b84d729402f64602de|there are children in the streets.
+거리에서 아이들이 있습니다.
+
+prompt_7b960c82f903691bc9d83188ee623e7a|you read my mind.
+넌 내 마음을 읽었어
+
+prompt_cb500d07665d0fbcd5e6a0cefbcc3c72|the girl heard a dog in your house.
+그 소녀는 당신의 집에서 개를 들었다.
+
+prompt_f2d6f7c5ab2b66866632591ad9a5efc1|she works for a foundation.
+그녀는 기초를 위해 일합니다.
+
+prompt_b12de78ea964b4c86a451795be83c6c5|he gets out.
+그는 밖으로 나옵니다.
+
+prompt_8e29b1cdbd50eced35acb70cd49ae886|it is a plate.
+그것은 접시입니다.
+
+prompt_1487418882aac1a1f4d7778e3a40918b|it is a bear attack.
+그것은 곰 공격이다.
+
+prompt_a5605fccc87ca1029d2968b4cf9e54a9|he likes swimming.
+그는 수영을 좋아한다.
+
+prompt_3fb942568251b336492728afd2de4dfe|the climate is nice.
+기후는 좋은 곳입니다.
+
+prompt_f9f7f8641caed450d25853414c2b5cd7|he has presented a new objective.
+그는 새로운 목표를 제시했다.
+
+prompt_a70e6eba6e648cc88656619e104c129c|that is not going to reduce the violence.
+폭력을 줄이지 않을 것입니다.
+
+prompt_12e3ef1524220a003672ebe627b0075f|a little girl
+어린 소녀
+
+prompt_3a14c985bbf345852aa2a9362e50ca54|you are almost perfect.
+당신은 거의 완벽합니다.
+
+prompt_e2388d7444d71add5d33f9591d8ead2d|she opened the bottle.
+그녀는 병을 열었다.
+
+prompt_55c493bba3757e2e9835113b44f0a96e|the girl hears the dog.
+소녀는 개를 듣는다.
+
+prompt_0b8bfdeacb70c1f5be2bf874a5a1e0be|the book is mine.
+이 책은 내 것입니다.
+
+prompt_179254f6fd3181e44cba2398cda6ed48|this train leaves at nine sharp.
+이 기차는 날카로운 구 에 나뭇잎.
+
+prompt_1a3deda4922532d2f999955fb9b655c2|he eats the fish.
+그는 물고기를 먹는다.
+
+prompt_79171ba21424b0ed6e46aa7bfe747f26|they did not have it.
+그들은 그것을 가지고 있지 않았다.
+
+prompt_6271382797c5954222e3fa21d446c3a0|i am a bird.
+난 새야
+
+prompt_210ccd20748480d024f5ccdcfb61aef1|the key is preparation.
+열쇠는 준비입니다.
+
+prompt_929fadae2066b5b17d0322b900a22faa|they are in the kitchen.
+그들은 부엌에 있습니다.
+
+prompt_7ad42b08a75c6d594f28110001aa3912|there was no damage.
+손상이 없었습니다.
+
+prompt_8b34d25bf30a04170e0ab836fa647165|the shirt is white or gray.
+셔츠는 흰색 또는 회색입니다.
+
+prompt_94282209f4aeafc83b78eda2df10ffdf|we want clean energy.
+우리는 청정 에너지를 원한다.
+
+prompt_1bc4ec726aa0e74d30f758149814472b|he delivers computers.
+그는 컴퓨터를 제공합니다.
+
+prompt_964589f2a51d811ead163e558e1f7a72|she is going to find it.
+그녀는 그것을 찾을 것입니다.
+
+prompt_e5416561d147e49cfcd493e5274036a4|the border is open.
+테두리가 열려 있습니다.
+
+prompt_8f0c30b9fbd2ab4931eb275a6eb32bb1|we need to develop a new model.
+우리는 새로운 모델을 개발해야합니다.
+
+prompt_52e319401228cd57556ef96bdb21af64|even he has tried.
+심지어 그는 시도했다.
+
+prompt_99e7e6569f742a39ce0cba31bc9702c8|i have never met him.
+나는 그를 만난 적이 없다.
+
+prompt_0ad86ce2ccbf8d7884b4d40b7d9075d2|she eats an apple.
+그녀는 사과를 먹는다.
+
+prompt_7e0d7b4ee0c991dbff6dfe90c205f999|we are going to present the artist.
+우리는 예술가를 선물 할 것입니다.
+
+prompt_97e7b126ddf3ede881526f8dbb11a626|we eat half of the bread.
+우리는 빵 의 절반을 먹는다.
+
+prompt_8b6dc4f521b5250411736ba56d63f7d9|pretty interesting
+꽤 흥미로운
+
+prompt_c9aa01071fafe59a96ef56b2012c3a79|we read a bit.
+우리는 조금 읽었습니다.
+
+prompt_02fb565233dfd8302f026ed63f190b96|he is going to control the world.
+그는 세상을 통제 할 것입니다.
+
+prompt_419e456733198afc73556fbb42e56fde|my house is in france.
+우리 집은 프랑스에 있습니다.
+
+prompt_c7baa628745370729c7cfda601baedad|how much is this worth?
+이게 얼마나 가치가 있니?
+
+prompt_fd9cf66be81b72963a9be93aea872470|the woman wears a dress.
+여자는 드레스를 입는다.
+
+prompt_89be33d0cec9cca710f2bf8ddcfc6e5d|where did they work?
+그들은 어디에서 작동 했습니까?
+
+prompt_aa3907b1c57ff819be9abd652045c07b|this november is beautiful.
+이 11 월은 아름답습니다.
+
+prompt_68bb17ff86e3bc500bb72bbfeadfbfc3|this zone is rich in gas.
+이 구역은 가스가 풍부합니다.
+
+prompt_b3e7bd983cfcd5e45af4c7ecafad4606|you have last week's edition.
+당신은 지난 주 버전이.
+
+prompt_c0afb78d2d17d024980f5fd5de56d793|the plants need more soil.
+식물은 더 많은 토양이 필요합니다.
+
+prompt_d7f436fa11dbe22fd3c92b97d36a4f84|i read a magazine.
+잡지를 읽었어요
+
+prompt_2a33bfe59ab9540a248972db94036650|the water is dirty.
+물이 더럽습니다.
+
+prompt_011540eda61b58132a28411bda471170|my little book
+나의 작은 책
+
+prompt_8732e51593d6394dce326f94d8618e88|he does not understand my english.
+그는 내 영어를 이해하지 못합니다.
+
+prompt_b2a570198ff0ca1cda640e599b6c2d2f|his film won an award.
+그의 영화는 상을 수상했다.
+
+prompt_3f4c64fa09102eba0840271f21b416fa|there is a volcano in this country.
+이 나라에서 화산이있다.
+
+prompt_36d2b2d154710cb785142d2b00f1032f|i had tried everything.
+나는 모든 것을 시도했다.
+
+prompt_bd6731cff0714b4012f68bc35bc10d04|i am going to prepare the meal.
+나는 식사를 준비 할 예정이다.
+
+prompt_75782bc21c6572ce5069b3633f9fcba8|you like meetings.
+당신은 회의를 좋아한다.
+
+prompt_8092ffe4b6a8538fd4c674872542bdfa|i have ordered these books in germany.
+나는 독일에서이 책을 주문했다.
+
+prompt_26b4581629aebb7f7cc69fe9de9b2280|it is ours.
+그것은 우리의 것입니다.
+
+prompt_bb12af3739032c9ea722efa7680b8f6e|it is possibly an elephant.
+그것은 아마도 코끼리입니다.
+
+prompt_fd71b47e0f3520922c34d741e81973cd|he tries again later.
+그는 나중에 다시 시도합니다.
+
+prompt_54c62ee2177c8d3536e122abb79c8d3f|open your mind.
+마음을 열어보세요.
+
+prompt_a6333e7a72348fcf1a8c144a6c00c47e|i am from spain.
+난 스페인 출신이야
+
+prompt_1153d7118d08abb61d21740933aebcf8|the students do not want to listen.
+학생들은 듣고 싶지 않습니다.
+
+prompt_e2f28d7fdaf013fde5cd73ec20aa2700|the scientists study geography.
+과학자들은 지리를 연구합니다.
+
+prompt_84060f438833576efe769d70e2bf882b|he is clean.
+그는 깨끗합니다.
+
+prompt_6701980effa74cb96000a5857f9c48ef|the ducks are alive.
+오리는 살아 있습니다.
+
+prompt_1385fac9219f36d6b20d6f907bfd2498|we are going to transport milk to the school.
+우리는 학교에 우유를 운반 할 것입니다.
+
+prompt_a342175c68fdd701d4454d845ee58d4b|england is an island.
+잉글랜드는 섬입니다.
+
+prompt_722700caaa834014a62d492c10b6dc0f|the child fell out of bed.
+아이가 침대에서 떨어졌다.
+
+prompt_255ae80ce05b3d5121a345fd6bb22ba4|the ideas
+아이디어
+
+prompt_c00006b0e507399a07479f52e0afeed0|his signature is in the book.
+그의 서명은 책에 있습니다.
+
+prompt_656aba0fe6eb410ac90e7a62d57ad56f|i do not like that leader!
+나는 그 지도자를 좋아하지 않는다!
+
+prompt_089e5d492136b1b80f4908388cdd188e|they eat sugar.
+그들은 설탕을 먹는다.
+
+prompt_ca3f0175f22612d488ad5f820b334432|more women than previously
+이전보다 더 많은 여성
+
+prompt_a6204bb8f83209a31391a5ac81ff159d|the turtle drinks milk.
+거북이 음료 우유.
+
+prompt_40d9e538b6b5d9b36ae1bbbe296ac280|she writes in italian.
+그녀는 이탈리아어로 씁니다.
+
+prompt_659bcac9593e94a94a286d45bfe61291|they would have discovered the answer.
+그들은 답을 발견했을 것입니다.
+
+prompt_4dcdaf2be904cbd7c4531736a8e56a19|the woman reads me the book.
+여자는 나에게 책을 읽는다.
+
+prompt_6506ebb050809cf619ab2c5a24a9f7d6|the trees are big.
+나무는 크다.
+
+prompt_1b7fce07915d2df176785a0e7f87aca5|what are the prices for these apples?
+이 사과의 가격은 얼마입니까?
+
+prompt_04faec5f461d5a9ea9d5a0c2137237f8|it is an efficient model.
+그것은 효율적인 모델입니다.
+
+prompt_0bc439dc6540e39fb77f3f6d5f9f6abc|i have missed you.
+보고싶었어
+
+prompt_af508f0c08a2b898af46dde0dc7ad51e|they took it by force.
+그들은 강제로 그것을 가져 갔다.
+
+prompt_40989f4c63aaa03880ce7989a10991ef|this shoe fits me well.
+이 신발은 나를 잘 맞는.
+
+prompt_9c014e109e87ed15f47bc46734fcc932|please do not write like that.
+그런 식으로 쓰지 마십시오.
+
+prompt_ea942680440c3bdf9a45352b218fb6b0|we create.
+우리가 만듭니다.
+
+prompt_fccfb1c9d44192ddf45f3e5117d562d4|i am not sick.
+난 아프지 않아
+
+prompt_6ba2baa0d2c52653799636dda4e2934c|i drink apple juice.
+나는 사과 주스를 마신다.
+
+prompt_d507bc6edcdd7a0c005dca68d58d54da|i speak.
+나는 말한다.
+
+prompt_dddf8f01e9ca96dc5e7629c2f585d9e6|they are doing well.
+그들은 잘하고 있습니다.
+
+prompt_7a3a15798f3ba95dbeac9212374d1041|positive or negative?
+양수 또는 음수?
+
+prompt_ba941890fafcc1caf9030f37b419a228|my husband likes this description.
+내 남편은이 설명을 좋아한다.
+
+prompt_f87b0a46af349ed43bf6434d4dd4acff|he died.
+그가 죽었어요
+
+prompt_1a3ab90556cd2a05a2390ad4b195def6|his house is in the valley.
+그의 집은 계곡에 있습니다.
+
+prompt_0c8a4ce7f29192017689a75e46485ff8|she has lost weight.
+그녀는 무게를 잃었다.
+
+prompt_fb4a632990c26f0c57fca6b2e08242fa|i always feel tired.
+난 항상 피곤해.
+
+prompt_3495b3406af63ac32ef703fe77f488a5|what are the benefits of this system?
+이 시스템의 장점은 무엇입니까?
+
+prompt_9c1c3aa4b89bf988d93246d4283ffdc6|we eat bread.
+우리는 빵을 먹는다.
+
+prompt_c71cb48b983dc6e5426f07f0a483e16f|they are not your pants.
+그들은 당신의 바지가 아닙니다.
+
+prompt_525e662d7d5631d9aed22ca38db247e2|nobody drinks.
+아무도 마시지.
+
+prompt_aaa8ab8b23b101f00d14b280f97bffc5|the girl always wants to win.
+소녀는 항상 이기고 싶어합니다.
+
+prompt_c4173bbc7d6352e56ac50edc0b4c8116|he eats fish.
+그는 물고기를 먹는다.
+
+prompt_ee61d297ea5861e333bad2c3284714fe|the best player is the one with the green shirt.
+최고의 선수는 녹색 셔츠와 하나입니다.
+
+prompt_3c55bfe11eb4bd17aed33fc9f5d63839|we will continue together.
+우리는 함께 계속할 것입니다.
+
+prompt_ec718a7865543424f261e14440d7bd19|she won the prize last week.
+그녀는 지난 주에 상을 수상했다.
+
+prompt_fbcb32048a38dfc1326f04ab4410e086|i will show you the city.
+나는 당신에게 도시를 보여줄 것이다.
+
+prompt_2a9cd2ad665f5f345f8c0dca0e391a97|i eat cheese.
+나는 치즈를 먹는다.
+
+prompt_2af4ba8a90e32829a8bd8c78ec30d133|there are meetings every monday.
+매주 월요일 회의가 있습니다.
+
+prompt_f346f8bd090f9cef3f1c499508dd1639|do not be my student.
+내 학생이되지 않습니다.
+
+prompt_d3848c16ed82ee6d628b73fd1374e196|the turtles read books.
+거북이 책을 읽습니다.
+
+prompt_06102d512678f4b5f6aa71e42a53fb5f|i have today's edition.
+나는 오늘의 판을 가지고있다.
+
+prompt_a4e489907994d8af2fbec6a8b951b138|we are going to find those keys.
+우리는 그 열쇠를 찾을 것입니다.
+
+prompt_6875eca7a6ed75a9f055e7f225d27773|a girl is a child.
+소녀는 아이입니다.
+
+prompt_1a7e9279589312c726709b513f71268f|i work tonight.
+오늘 밤 일해요
+
+prompt_330ce4867fe43b1d75e50c425dbee1b3|a lamp
+램프
+
+prompt_8736cf18209763ef34d68c13fd93f717|the ducks play.
+오리는 재생됩니다.
+
+prompt_7ea189976de3ffdd06de10dfe24e5d03|we are going to be in spain.
+우리는 스페인에있을 것입니다.
+
+prompt_f278d1a67bae164cbc8fdc2461082804|you want a horse.
+당신은 말을 원해요.
+
+prompt_9b0b07c42f101be31ef51b3e25a0ddf3|the wall is blue.
+벽은 파란색입니다.
+
+prompt_adc6eadfc522e30a0afe9473f7c35870|you will have received the computers by thursday.
+목요일까지 컴퓨터를 받게 됩니다.
+
+prompt_d88ceae45f1319a1e10baeda489a0488|how much is this racket?
+이 라켓은 얼마입니까?
+
+prompt_9a512f00b4ac7e08113524814d9e9c85|he demands wine.
+그는 와인을 요구합니다.
+
+prompt_b5f385269215438c7db2595c360b8af9|he stayed in the hotel.
+그는 호텔에 머물렀다.
+
+prompt_f933ef1b71f6386912145ab21ea1de2e|she told him that their father had died.
+그녀는 그들의 아버지가 죽었다고 그에게 말했다.
+
+prompt_d79867ae79589b5273e68d99c9ec004f|the degree is important.
+정도가 중요합니다.
+
+prompt_8e5eb3e54d4f35d5fba2d8ed5f26be7a|my son is sixteen.
+내 아들은 열 여섯 살이다.
+
+prompt_3fc53ad58a8ab44bc01b49161e34c643|who has it?
+누가 그것을 가지고?
+
+prompt_1caff4fd893c3dd4f6bfececdb5d0026|he is a teacher.
+그는 교사입니다.
+
+prompt_62057bd23df27a5915cfa2727b461707|the girl drinks water.
+여자 음료 물.
+
+prompt_079788c3018f8aba704d2996ad7c085d|the turtle is an animal.
+거북이 는 동물 입니다.
+
+prompt_d38e42e2d681346cde173028b2d8c350|he will not say yes.
+그는 예라고 말하지 않을 것입니다.
+
+prompt_090a987ee0dc487310200076aaad7a5b|she does not listen to him.
+그녀는 그 말을 듣지 않습니다.
+
+prompt_8319e5557864effdf4910605e52786c7|with the parents
+부모와 함께
+
+prompt_1bbf00ee555cf168ae3797d3e39272eb|he thought about me.
+그는 나에 대해 생각했다.
+
+prompt_6ac93064b878f64ebd34944e1bbcd26f|he tries going to the city.
+그는 도시로 가려고 노력한다.
+
+prompt_dfd002253487d36a63409665bee32444|i have not received it.
+나는 그것을받지 못했다.
+
+prompt_9b81ba34a05867d6efbba29707a07434|a military career
+군사 경력
+
+prompt_5fad35ce91b46060811356f12c24b802|i am not going to leave today.
+나는 오늘 떠나지 않을 것이다.
+
+prompt_4870ac22c2d52d478c3a09fbe60f99aa|i am twenty.
+난 스물이야
+
+prompt_3b256596d5f167a0965306695aa960b9|physics is a science.
+물리학은 과학입니다.
+
+prompt_2e2e4035bae1b121fb5ceafaebf843b3|that is my definition.
+그게 내 정의입니다.
+
+prompt_67775d1492678f8273688ed280cd80a8|the expression is good.
+표현이 좋다.
+
+prompt_6835d49e14263e5e9e614856d92f620c|this virus is very strong.
+이 바이러스는 매우 강하다.
+
+prompt_83e2a367deb9f56e1d5cefe161203df9|is he going to help us?
+우릴 도와주실 건가요?
+
+prompt_5afc24df71ccb15ee4e441444661955a|i eat breakfast.
+나는 아침을 먹는다.
+
+prompt_0eaedd00ed334ef005686139a6e7674f|i do not like basketball at all.
+나는 농구를 전혀 좋아하지 않는다.
+
+prompt_1042fe3672f2d6e074e4366c53817944|i do not have a horse.
+나는 말이 없다.
+
+prompt_9e20f2c223029a089d3a55bbfabd6b14|it is an important investment.
+그것은 중요한 투자입니다.
+
+prompt_7c412fecfe24dcdde2d81297dc7ae57e|the men have spoken.
+남자들이 말한 바 있습니다.
+
+prompt_4c66a3e1580aae41b52c23c90309872c|the woman drinks alcohol.
+여자는 술을 마신다.
+
+prompt_97df0613956c87d307e844c9d05597c6|our turtles are green.
+우리의 거북이는 녹색입니다.
+
+prompt_b7389eed7414fa815b6a6bfcc7a5fd01|i ask a question.
+나는 질문을한다.
+
+prompt_28238586d0636f5d4b59494b71ee2455|i eat fish.
+나는 물고기를 먹는다.
+
+prompt_c269af04d362d70c1d336c8cba2c32dc|the apple is bad.
+사과 는 나쁘다.
+
+prompt_c13894825627aff766e432ddc841b76e|he will not find it.
+그는 그것을 찾지 못할 것입니다.
+
+prompt_79ce440cffa09bdb8f3555ba7a26683c|the children eat by themselves.
+아이들은 스스로 먹는다.
+
+prompt_e333e34e0409fa1ac24edde5c3431969|they need us.
+그들은 우리를 필요로합니다.
+
+prompt_10452224083fefe50013e17b95761b05|it is three degrees tonight.
+오늘 밤 3도입니다.
+
+prompt_a9c744c582df3591e907da062a024ce9|she will have taken the bus.
+그녀는 버스를 촬영합니다.
+
+prompt_5733ba8d3297ae7b4ef7efbc54dc61bd|he wishes me well.
+그는 나를 잘 바란다.
+
+prompt_f3b214e9a7257d4aa1b20e04f6fed56f|he is still young.
+그는 아직 젊다.
+
+prompt_0d38a8475039a44951a24a3c9d6aaa22|those are good occasions.
+그것들은 좋은 날입니다.
+
+prompt_5dffa46dd688a56c978787ea7c83f513|he will recover.
+그는 회복 할 것이다.
+
+prompt_51ba0e2d5e205ce6013ddc66e491464c|my clock is pink.
+내 시계는 분홍색이야
+
+prompt_e8a47683a22b2d1b7919696739c3c93a|the room was perfect!
+방은 완벽했다!
+
+prompt_e5242c0f14fc1fd9597174900fd13e65|they had discovered the house.
+그들은 집을 발견했다.
+
+prompt_8c45c41bf163565c4c2666a697159e2d|the flight is already full.
+비행은 이미 가득 찼습니다.
+
+prompt_0293dce1fb38f33676dd27df348b5b44|he reads the newspapers.
+그는 신문을 읽는다.
+
+prompt_5dbadfc632066f2fc13a15fa085d5f24|there is no doubt.
+의심의 여지가 없다.
+
+prompt_3a43106d505414548b9a0f1fd5387f4a|the men read the newspaper.
+남자들은 신문을 읽었다.
+
+prompt_65119c541b6a85915deb48abb39529b6|a year has twelve months.
+일년에 12 개월이 있습니다.
+
+prompt_9f094be2322de68caba5e20476f85683|i will give you the book.
+나는 당신에게 책을 줄 것이다.
+
+prompt_5572084a6d21ad0b0416509360bfef41|solutions are possible.
+솔루션이 가능합니다.
+
+prompt_220b2f117fb1b019015e982a2dd9deae|it is the color of the bear.
+그것은 곰의 색상입니다.
+
+prompt_ba538dc3970a7e27ec786ce019889e8f|i do not know the name of the agent.
+나는 에이전트의 이름을 모른다.
+
+prompt_aa523c8d06efadc26e1f3280f947d796|she will have sent a map.
+그녀는지도를 보냈습니다.
+
+prompt_db774a8cfd208cb15a1ee1af05867cfe|i drink tea.
+나는 차를 마신다.
+
+prompt_aeda311b575677630486ed319d923772|in april and may
+4 월과 5 월에
+
+prompt_c8922a9cba4c863cf68edf2d85ae1e6e|her husband would have opened the letter.
+그녀의 남편은 편지를 열었을 것입니다.
+
+prompt_b29a0d1abb8891b299b800b7a7ff1cbe|she opens the window.
+그녀는 창문을 엽니 다.
+
+prompt_8df696798dbfe3789144a2ed132a3b3b|it is a small dog.
+그것은 작은 개입니다.
+
+prompt_66e748bc6b2d3dfae24856ad7c93d6c8|orange and gray are colors.
+주황색과 회색은 색상입니다.
+
+prompt_8069407d295d03aaab7a325115bf12f6|he finds a job.
+그는 직업을 찾는다.
+
+prompt_5bf1da6b1a427dd5556a9f6b4c2a0f5c|the attack happened in march.
+공격은 행진에서 일어났다.
+
+prompt_633179ca8950be24a343425a446bce55|yes, good night!
+그래, 잘자요!
+
+prompt_21c4c76c51f9f461bd12ee5b88232740|the persons like the society.
+사회와 같은 사람.
+
+prompt_80d4636e7cc2bc5cf0ff6b4f0278939a|she has written two books.
+그녀는 두 권의 책을 작성했습니다.
+
+prompt_ea01c041f510c804f11253a59b07a9af|the crab drinks water.
+게 음료 물.
+
+prompt_aa0102772aa647eb80c2aa7964d75514|after one month, he leaves.
+한 달 후, 그는 떠난다.
+
+prompt_6fda493e10f727786d39c368c7622607|what is his real name?
+그의 진짜 이름은 무엇입니까?
+
+prompt_70b7190754a322d5b87a49cb038ee585|how do you define love?
+당신은 사랑을 어떻게 정의합니까?
+
+prompt_958f8e7d0f90c85387a7315fdff7d233|i spend too much.
+내가 너무 많이 쓴다.
+
+prompt_c603371a90680d8310976330f0fe2b04|i do not like people.
+나는 사람들을 좋아하지 않는다.
+
+prompt_34c3fa4a7edb3d857b64f9f9d79709bb|people will look at you.
+사람들이 당신을 볼 것입니다.
+
+prompt_e529dfc54afc26819ba8b7ae2572d98b|she studies in the morning.
+그녀는 아침에 공부합니다.
+
+prompt_7065d46a5eeade5565b8fc62bcc9ef43|they are among us!
+그들은 우리 가운데 있습니다!
+
+prompt_083fc0df2d33d09ec338fba2a00eff96|she asks a question.
+그녀는 질문을합니다.
+
+prompt_3610a7ec0b95aac41bc83f2c1bb9bb08|they are going to offer their house.
+그들은 그들의 집을 제공 할 것입니다.
+
+prompt_2d7d40cf58c9a58c8e9f99644b9e082f|my kitchen uses gas.
+내 주방은 가스를 사용한다.
+
+prompt_c80db06f45ee31bb4dd032dffd97c07f|he cuts the bread.
+그는 빵을 자른다.
+
+prompt_a9e0d27e905eb92bd0d9a99d1ab45c27|we can enter without shoes.
+우리는 신발없이 들어갈 수 있습니다.
+
+prompt_1d3d4745f2561e257da8229f22f11594|i like december.
+나는 12월을 좋아한다.
+
+prompt_ea7882b2d351523cb2214d0e7ce9a4c3|we are here to avoid violence.
+우리는 폭력을 피하기 위해 여기에 있습니다.
+
+prompt_83e2e18ce0fc12063064196c4c527d0e|he talks.
+그는 이야기합니다.
+
+prompt_89bbcc1952474c2ba91a932697477c95|the women and the girls read.
+여성과 소녀들이 읽었습니다.
+
+prompt_7ac74d8573890538908be47afaccbbe9|nature is the best teacher.
+자연은 최고의 교사입니다.
+
+prompt_b78b24024cbbdb2dd7deae64a98996f0|the ship is in the port now.
+배는 이제 포트에 있습니다.
+
+prompt_64275f41d7007a8ea8e02303e7aca523|he eats anything.
+그는 아무것도 먹는다.
+
+prompt_e6635cbeb17e3eb39f216de0efb7119d|the water volume is not enough.
+물의 양이 충분하지 않습니다.
+
+prompt_70645f4a342b238e21cb034ffde4279b|a message
+메시지
+
+prompt_3bc5240699211cabc6b07bd42cac228b|can we?
+우리가 할 수 있을까?
+
+prompt_e73e5b4a65483168a18031739ded2d38|he did not remember his father.
+그는 그의 아버지를 기억하지 못했다.
+
+prompt_ee9ce3a8cae99634d9d81468e157d878|he swims like a fish.
+그는 물고기처럼 수영.
+
+prompt_89585b2d82ea470c33fc66a8c793b2a8|the situation is different each day.
+상황은 매일 다릅니다.
+
+prompt_f36857e7688b5bee77fac727ecd941bd|please sign.
+서명하십시오.
+
+prompt_b521f20f8eeffda288be8cecb9bc9888|the fair is over.
+공정은 끝났어
+
+prompt_167f961033ea38e4bb0c0f09fdcbf8b5|this is an electric car.
+이것은 전기 자동차입니다.
+
+prompt_69a4858d354854358203c0c63ca187e3|it is the lemon.
+그것은 레몬 입니다.
+
+prompt_efb520d78555d28caee62388ba07806c|i know those women.
+난 그 여자들을 알아요
+
+prompt_944c78967e68ec5917fcc4252bc8efed|that room is full of dust.
+그 방은 먼지로 가득합니다.
+
+prompt_f2c6a3e9f03e57dbd167fc799478a615|the boy drinks milk.
+소년 음료 우유.
+
+prompt_015fb23a2541c0168edcf5b48095d977|the depth of the river is over a meter.
+강의 깊이는 1 미터 이상입니다.
+
+prompt_9dbfb4bfdd3de3183b83b23bd1ff2aa9|we had known the answer.
+우리는 그 답을 알고 있었다.
+
+prompt_862d8a49f57a90c4e3c75bc8a92e9145|it is hard.
+그것은 어렵다.
+
+prompt_1bdb68c749838bccf17004b5e07c541c|the duck swims.
+오리 수영.
+
+prompt_d0e03453762953d7326f17c75d0bf604|the definition is wrong.
+정의가 잘못되었습니다.
+
+prompt_09bff73ecf674e0a4c8ba61a8e4915bc|she has sent a box.
+그녀는 상자를 보냈습니다.
+
+prompt_e3ff5a2485f6dd1240a936ac24bb8d5b|the relations between the two countries are not good.
+두 나라 사이의 관계는 좋지 않다.
+
+prompt_8b44b4b28ad6e0c2819d7d3feacb55c8|is this your weapon?
+이게 네 무기야?
+
+prompt_79df600e0c26abc8bb6a230714545005|i pay attention to her.
+나는 그녀에게주의를 기울인다.
+
+prompt_45c3989534294f1ee5d40bc2efa0b40b|he is a military doctor.
+그는 군사 의사입니다.
+
+prompt_35179a54ea587953021400eb0cd23201|how are you?
+잘 지내세요?
+
+prompt_28ca1819ba288ceb48499104200364d7|he finished eating.
+그는 먹는 것을 끝냈다.
+
+prompt_73dc7e2654d55a28aecec0bbf4e549e0|he speaks well.
+그는 잘 말한다.
+
+prompt_6ecb67fe2207f94f50208e9775a7f4b4|i want to learn english.
+나는 영어를 배우고 싶다.
+
+prompt_2d9ceba574d6285f3eb694ec5c461c63|i return to france.
+나는 프랑스로 돌아간다.
+
+prompt_84f1d74a51084eed538312c77fe2b513|i will change.
+나는 바뀔 것이다.
+
+prompt_7988b9a7850a48f10a20a8e21ace0f99|birds sing.
+새들이 노래.
+
+prompt_20625fa346a2a82f7ebbc932b8019d28|have you read them?
+당신이 그들을 읽었습니까?
+
+prompt_73f4506101221c3f1b3e90adc20f04dc|who wrote that book?
+누가 그 책을 썼습니까?
+
+prompt_1fc1559c767e509f9c0abd7d506ed82e|you open the door.
+문을 엽니다.
+
+prompt_adcbb14dc4b7f3c4adb354f45fe60342|i speak to her.
+난 그녀와 얘기해
+
+prompt_a5ebf857ccca5ef560ce3fa046d33c11|it rains in march.
+그것은 행진에 비가 내린다.
+
+prompt_b9bd5dfccad61e8ed3ac424df321f78c|you look old.
+넌 늙어 보이잖아
+
+prompt_ffd391f56eeb40154f80e316798ff3a7|i saw him recently.
+최근에 봤어요
+
+prompt_77951f8e1351eb197ec70f384944444f|the book is in the next section.
+이 책은 다음 섹션에 있습니다.
+
+prompt_9c4a543b768501dc4d8a438fefb71aa9|some fish fly.
+일부 물고기 비행.
+
+prompt_4a55afe7c2f4987dc82566f3f1fdfa9f|she is currently a model.
+그녀는 현재 모델입니다.
+
+prompt_533b920008bbcea6e4b972344c2e8c61|the animal sleeps once a day.
+동물은 하루에 한 번 잔다.
+
+prompt_477d6285c62660d0f5f3ba5288d5855e|who is our waitress?
+우리 웨이트리스는 누구입니까?
+
+prompt_3ec853a21ff36b305659209b5af5b957|so we will watch tv.
+그래서 우리는 TV를 볼 것입니다.
+
+prompt_c30d54f8992e0361409c8c4e637ce891|i need an english newspaper.
+영어 신문이 필요해
+
+prompt_c3a5b882ca92ef7ca272c6292ac02f03|germany is a country in europe.
+독일은 유럽의 나라입니다.
+
+prompt_d5ac4417605b7be1a30c61227053b516|she is going to apply it.
+그녀는 그것을 적용 할 것입니다.
+
+prompt_60a157769df3e45c2ab17a19388d9029|the milk has gone bad.
+우유가 나빠졌습니다.
+
+prompt_4d5a83e91b4499c067528e571f344431|why did she not speak yesterday?
+왜 그녀는 어제 말하지 않았습니까?
+
+prompt_98aa5bc3132835b209df19e05bb2e72e|winter is from november to february.
+겨울은 11 월에서 2 월까지입니다.
+
+prompt_e9f3d67782b5d1e210fa4d3109054cec|he does not want them to close the door.
+그는 그들이 문을 닫기를 원하지 않습니다.
+
+prompt_648d0e0689c1cb026d90486e38064c2c|bread is food.
+빵은 음식입니다.
+
+prompt_748b30d21a27a13a3703e73eb73e9289|the other important crops are coffee and fruit.
+다른 중요한 작물은 커피와 과일입니다.
+
+prompt_8cef7bb07778ba84dd0e9de958223216|i will get used to it.
+나는 그것에 익숙해 질 것이다.
+
+prompt_57c72f619989085da0fc9a2cf8e0391c|count the apples in the basket.
+바구니에 사과를 세십시오.
+
+prompt_fe2172a6acf08b375087f58addc919bc|the minimum time is an hour.
+최소 시간은 1 시간입니다.
+
+prompt_3aab6a2b48c1a24668d477457ea46b72|they gave me a tomato.
+그들은 나에게 토마토를 주었다.
+
+prompt_1f1d370de4609030cf38dcde36000ed7|we eat and we drink.
+우리는 먹고 마신다.
+

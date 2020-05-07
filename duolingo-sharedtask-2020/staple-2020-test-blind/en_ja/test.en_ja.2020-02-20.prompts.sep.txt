@@ -1,0 +1,999 @@
+prompt_3294e60ed34b73c8e0201575df797cfe|it is a kind of tomato.
+
+prompt_fa3161c7db8c7c7d48b7d4e29202537b|we do not want to repeat our words.
+
+prompt_8549c5ad768aee27988b96797792e06a|do you have a tv?
+
+prompt_7ecda3dcd8ac9944e4ab6c226d434f82|it is global.
+
+prompt_6aace0665f8e973ecc6ead9d33920822|where is the border?
+
+prompt_1407b0e8367aca4e24fad3603b638414|where is the bar?
+
+prompt_84fa675b7f5aadbfb3a7c573d5e23151|i want you to repeat the question.
+
+prompt_7594f6c58c9e6359fbde8a124301ce24|he is my guide.
+
+prompt_106d18d6850c4097d61e3b78a40c9873|the problem is the battery itself.
+
+prompt_c950360ade84ceb1f742ef53ad40cc47|but where is the postcard?
+
+prompt_445d17d297b7c326dda8d394a240b34f|she is as red as a tomato.
+
+prompt_9f99f3988b0a9f89262c742553e72bc4|she has a virus.
+
+prompt_11e5295587633df7fb682e2844486b3a|he talks on the telephone.
+
+prompt_2f12b2d8633f74d1bb719ed60df1f59a|she is fourteen.
+
+prompt_6f5ca5d2145da6778988465379ec9c67|i want that bag.
+
+prompt_d5d099a1eaf81e265a440808180f1ee7|the preparation is very important.
+
+prompt_e07bbca936cab7e71ddc8761f0ef0a85|we design it.
+
+prompt_9d8c8f9bac4e0128d01c5f37946110c4|you are at a farm.
+
+prompt_2c3b3e979c637e412d5bdcd8475595c2|he has experience.
+
+prompt_ad592a0b73c85584520271869fe5f0cd|he is our cook.
+
+prompt_b6543054731c83ff32638c411c3a2226|we have a mirror.
+
+prompt_f64ba1b3439bbfdd95fdfa65dd212d48|because a mountain is there.
+
+prompt_2b6f411a5004b5c99cba1176439fbdfb|we decided together.
+
+prompt_fbeb84a15d8826e50430f3ba4fdb760e|i have good news.
+
+prompt_e448f65213928fe7b37dfec7f50ad4d3|this activity is against the law.
+
+prompt_598791057631f22db4983118731ccddd|a boy walks.
+
+prompt_275f719f39ec28c89f5ad3d8722df0cb|she has an uncle who works in a bank.
+
+prompt_7ebc590f65841bea3e5e4570f74d7441|he needs to get the document.
+
+prompt_f948d9e63cfad9cf29cd70210b7967a4|my grandmother speaks slowly.
+
+prompt_99e9b83897ae2d544abfefb15175f8dd|these shoes do not fit me.
+
+prompt_d6dca380a3a29c9327609062db414d31|what will you offer me?
+
+prompt_876d26538414a94c271f8fab92de4969|do you need an ambulance?
+
+prompt_4316e83cd6f9e7e635ca7b1d80c3407b|i have just read this report.
+
+prompt_c6426447d6bf7cedeb075e852bf325e4|she likes men.
+
+prompt_f2265963c339c46d005805a21a5278d0|the writer writes.
+
+prompt_2597733c4037ff8858b141a2a966567d|i am happy to see you.
+
+prompt_2984c26a0abd020b9994554ab844177f|mark it.
+
+prompt_b9c65aa41042827d97ce591961b7754f|it is not a blue screen.
+
+prompt_3495b3406af63ac32ef703fe77f488a5|what are the benefits of this system?
+
+prompt_21a8cc84e02ab6ac9a0bd0d9484bd775|what is this story about?
+
+prompt_87be4c76d173139d12fe00b0f4b1dd69|she wants to achieve this.
+
+prompt_a802160cb6f7174a5ffa4073fda916a5|tomorrow is not friday.
+
+prompt_f7772efc39f9a1576feec727d5000e4b|they had known my parents.
+
+prompt_ca9b5325e535d84bdbd10d31ca00539d|they are my parents.
+
+prompt_f24495173b58ff987b8f5e5f6437cebd|i have to stop the car.
+
+prompt_a252a6a8278a1a558ab4ca8ee07f2963|they will be able to exercise.
+
+prompt_772ab8e54464756b14e29a549eac2319|we want you to try.
+
+prompt_428a325e04a08dfbd41b8e3f873f66ea|he works under my orders.
+
+prompt_5ce0aabf851e4593b07a2e8bb62300e1|it is very simple.
+
+prompt_c7a91a1699c1971ae4adc93717ebd5f8|i eat the strawberry.
+
+prompt_9cbb5f3ed2acd8f6b8e17b00f4fb4ccc|the summer is for the youth.
+
+prompt_f37d02905150668dac0cd5289257a88c|turtles swim.
+
+prompt_8ac3eeb24394914fa680e702a5eeaeb3|it is the truth.
+
+prompt_1300c113aede4884004047b30ce64660|are they citizens?
+
+prompt_1bbf00ee555cf168ae3797d3e39272eb|he thought about me.
+
+prompt_05f5975bf342a9c49684c274dd560a4a|they come in march for a visit.
+
+prompt_709cde18a15725288241c2946da28b77|the dog eats between the cats.
+
+prompt_54d921cced99d8741de1b8faf20fe860|the exit is on the right.
+
+prompt_5456233d7406367c017307f5ce3184b1|the men drink milk.
+
+prompt_56c405502b872dfa94805cd354ded73e|here is the lamp.
+
+prompt_e910c51140a533bc64393d7c50da9bed|she is going to want another skirt.
+
+prompt_b80d9c06485d1f4886ec49b67523b7b5|she is a waitress.
+
+prompt_8f3a227d83be89ffe45e6de16c0be5b1|i eat under the table.
+
+prompt_f4433a55a55315920248317f552f4b21|it is my flight.
+
+prompt_92b0c092a782d8acd6508e92fed2f22b|we like playing together.
+
+prompt_417417e756387a61c4a5856549fab210|we made a deal.
+
+prompt_98f203a59b1497b1c73cfab6981f34da|our cup is between the plates.
+
+prompt_21601c3766cfc219291a392e0fa6e157|he is a cook.
+
+prompt_67fe82ffcafb487cb021685f7b40be98|he is going to listen to the music.
+
+prompt_36d149434ec99cf9fd124087e73df675|we are not going to allow this.
+
+prompt_136efbaf03ab7128cae1b3b5052db271|what is the student writing about?
+
+prompt_53996005ba0075994d49f581daaa2c48|it does not reach the roof.
+
+prompt_5275d6f582dbd97844cba52b6b78c9cd|i wear her dress.
+
+prompt_215c9c44b64e4577e20160e1e8861cb5|i work the whole day.
+
+prompt_1a3ce6f719017de0fdcbe3d26cb9f088|sometimes we eat fish for dinner.
+
+prompt_1d64e88f4435db78084b11511b4e5140|i have a calendar.
+
+prompt_8458976f29627ade8c0beb945d2fee53|we will find the hotel.
+
+prompt_1f4ab3cabc4c6ce6b3e8fe83dd47591f|we will see the photos.
+
+prompt_8d7d5729f4fda3bc5e23b0d3740b5bf6|i like this image.
+
+prompt_ebc2683a1d9507d77bd3d36345790b2a|he is in the navy.
+
+prompt_dfb88898b49b82bfd0027c55691e3cdf|give me half.
+
+prompt_8401f5cf8d4b642af5ccda1ae07acd9f|i have lots of books.
+
+prompt_8ea62157b620bb7eb8c789b53fd71f02|we are eleven people.
+
+prompt_83167ff50cea5d8fae7adb913f22a11b|what is the sum?
+
+prompt_1bf1e7c0b37dea3e3920970d29d33fc3|he did not feel that.
+
+prompt_44f57d34fbb656036b94ed6a1418681b|the budget is small.
+
+prompt_a9a6eb52b3d53f389b0cca94a11a9d71|we had found the hotel.
+
+prompt_f220429179df2e82674bf645edaa3887|she is on the road.
+
+prompt_13419879b2b31f3445cfd5b4bf6200e9|he did not play on friday.
+
+prompt_81913e56c6d78c17e22dc994a7449691|i have a pig.
+
+prompt_49d6a042e2f03cc4d409d4047f00f928|she is in the bathroom.
+
+prompt_4edcefe245b4a7acc6412c5484cec93e|i will access his profile here.
+
+prompt_335e82ac37fb80887e7be0ac7c13fd53|i do not know where to go.
+
+prompt_1777cbf9fee76ba7963f555652a0f458|may i eat the apple?
+
+prompt_08a1398aa2d7416119de0a94c2f225e8|the main color is blue.
+
+prompt_ba00e38af55d7209bc8c43d0afe15f46|i have finished them.
+
+prompt_80a84fe2efe2be39139d3193fcf41cf6|it is your turn.
+
+prompt_681d05e8519196ccc92f4fcde8ab1f8c|i have received them.
+
+prompt_11f462270a6c0ced730ebfa58d431664|this word appears in the text.
+
+prompt_4f9e6dca30aff26ddaeaef22c8e73038|the woman does not want to get on the plane.
+
+prompt_e133575d72d4830db0437edbebb1be26|what is the eiffel tower's height?
+
+prompt_e508d77b0c9577818586d075ee49e7d6|in my youth
+
+prompt_c59aa1eae39b419cebb513f353703c18|she is religious.
+
+prompt_522735ca11773d037b6d072f2c6b021c|i will get a dog.
+
+prompt_0656591ea5c637ce94e171da5faeb419|they have a bowl.
+
+prompt_e214458ee6ed065a24a52f842b17e3e3|it is the final moment.
+
+prompt_5968b1239b42395e831387f84a890e1a|the campaign ends in march.
+
+prompt_c5e69eb66eb1f690517e90745280aed2|she and my father are siblings.
+
+prompt_1d3c503821f4c70a68a26d3ba7eab150|i do not have anything.
+
+prompt_a8ac5f9875b7ba787c707a9d828c332c|she is not responsible.
+
+prompt_5edd6a12c1f6a7f26a714e13c9a1a105|i am going to introduce the new boss.
+
+prompt_51b6aef56d6deb7615be0d9687a4f357|it is always the same!
+
+prompt_875a03afdc46131b6f69b328e19dd048|it is a chair.
+
+prompt_ec2843c40b904dc9eefcf2408d0aad17|it fits him perfectly.
+
+prompt_198288999f295ca2304d1aaecf03828e|this is the best method.
+
+prompt_9634f99338ae9966f55150bd6dcde81f|we eat in different places.
+
+prompt_3dce61c6e5331651b315b788b7aadf0e|i eat rice.
+
+prompt_a043e678f3a4342ead630e8772ff4d0b|he is a strong leader.
+
+prompt_fa64db04a33c21022f8420f75b1d2c0a|i have a girlfriend.
+
+prompt_b60b2e9243b43b3ea7d5291e34798dc9|your generation wears hats.
+
+prompt_3a55d2ef62166eeeec5352318cac4b35|i think so, too.
+
+prompt_876ae8dc32f96578ec076c5982e85600|the cat drinks its water.
+
+prompt_1d293daa3b4ef6a191f8b4cd94757989|i need water.
+
+prompt_72fdd1fb1bf9224884cfc0ab73e0813f|he will sleep in the room with her.
+
+prompt_985d90b208d9b2c4e4a26efa00140e48|he loves you.
+
+prompt_210ea3cd9ba40f2a468743925a61673f|turn off the engine.
+
+prompt_c42162fd70881d2de0473f565871f2e8|we show them our shoes.
+
+prompt_c6ad030cedb6a323ed3ac25e598457c5|i eat food.
+
+prompt_eea8e0ee8ed7a91d1e9164d2d1a7967b|i am going to wait here until she comes.
+
+prompt_6440009a22c010ef1fa04a6fa00590a9|a meter is enough.
+
+prompt_35a78601cb2160c7143dfc8bd84f1219|how many categories?
+
+prompt_ebae644f9433ad3b72759ae88632f94c|my mother will not be able to come.
+
+prompt_cd653c6237346bd8b537f730f8678a3c|who am i?
+
+prompt_733d9f47de92f839bf9f7dab36fc761c|we are husband and wife.
+
+prompt_4908dbf38eb937fcb2332689bc3ceafc|do you have something else?
+
+prompt_ee1c867f2de6109b218350d4165bba85|he will make a mistake.
+
+prompt_f9b48cda591acf9598fd5b5e88f1601d|i turn to the right.
+
+prompt_9b3a882e5d8153c261c09f209943227f|he did not do it.
+
+prompt_f7a44326223cb8ba6a8055963ee34204|i want a big calendar.
+
+prompt_7327d3a896f9f0010b6c50560cc979d6|he has my wallet.
+
+prompt_e2f6633e1597c1257ea46a5521bca9c7|the dogs play.
+
+prompt_09ec4e90bb5387e3ae690007945f18c3|we listen.
+
+prompt_4a2695a34a21c5a1a2cf49f38adaa513|why does it not rain?
+
+prompt_c3a2380fcd123bf17545aa01e2a9571a|you are weak.
+
+prompt_76c0b2d01db54324b96400a67b9a921f|the pan is yours.
+
+prompt_b5ec4619195c6bb8fb86d4cd17fab94a|where is everybody else?
+
+prompt_3cc6af047bd34ab336239056baa8cdd4|why is it personal?
+
+prompt_6796f801796a5a5839aaed292b39e542|i read you a book.
+
+prompt_bcfed8ad4ae9a46686fbbf6b64012b70|the relationship is over.
+
+prompt_4158fe15ffc004134f37ec68cc72afa4|he reads me a book.
+
+prompt_812b70107214c26725bba25360db9180|he is my boss.
+
+prompt_f57baf24e6cfb6e4bf87754cbd2b829b|i want to go for a walk.
+
+prompt_56dea85532b62bcdaa055712643a936b|i am going to sleep.
+
+prompt_890cca3ec6e3c8e2f8d2d661a18a0002|i read the comments.
+
+prompt_6d2e879b656d13ff294e696499872746|he is already there.
+
+prompt_5324867c62bad8da5ad01065e51c9ff3|she has opened the window.
+
+prompt_535b6a02b1d5efb118c3b1f2467bf72f|its english version is perfect.
+
+prompt_a8b74489c2d71e16881777cbd87ed89b|these are my dogs.
+
+prompt_31f627194998c12501c183f25d2824c1|if i knew, i would tell you.
+
+prompt_6688ac4a128ed44dc7040ba3e7cf97c6|they have a shirt.
+
+prompt_61f06c9dc19e9692dbdd7044babadc7d|the governor is going to allow this.
+
+prompt_8df696798dbfe3789144a2ed132a3b3b|it is a small dog.
+
+prompt_3fd5ed62411e381ecedda2a72c47a95f|i used it only once.
+
+prompt_6a2b11efd52e04282b3008f21f06f2d0|our technique is better.
+
+prompt_341ffcb484080570dbb10ae439e814da|the book is by the newspaper.
+
+prompt_21ca805c10b4e08e0737bf63233c4f30|i will read the newspaper.
+
+prompt_2524f4c8ad015a5000f730ab0e5ae24b|they are babies.
+
+prompt_09cc8ec75ed00a4336d0370a1ea02909|you will know the truth one day.
+
+prompt_b55ae6d867479337b660f2f80a80f9b8|they hate meetings.
+
+prompt_205fac7d14fb6aa1e322d12a7c53bed5|international stamps are more expensive.
+
+prompt_162f9bf1a84a4d7f37bfb324ff959d9e|she has a small head.
+
+prompt_2ffd05a499347712edc116be52288ddc|she did not use to drink wine.
+
+prompt_86b937da57fb7e56f7cc4b57382d3a93|i like castles.
+
+prompt_e2f28d7fdaf013fde5cd73ec20aa2700|the scientists study geography.
+
+prompt_71349ec2eb2decad58fcc3b9f24c9234|i hear a bell.
+
+prompt_8e55fcba2f6485ce291b721e9ff1848c|i will want more milk.
+
+prompt_447d1b02402bfaea31d0c4ae18fbca5b|she reads us the newspaper.
+
+prompt_f3319958f9226d5254efd67e953a92c9|when is the next international departure?
+
+prompt_b37edce401901b171e227664e4534c4c|we eat.
+
+prompt_18a9a5ade53909f3e967939b1d15317e|he had a dog.
+
+prompt_56eb898cdcbbaa6db8d37a90d402c2b4|i am alive.
+
+prompt_a58d18bce2b230bd70f9d9026ae7d9c2|this message is wrong.
+
+prompt_6b1a464699e2c123710f2dbdc43dec7f|i tried to avoid conflict.
+
+prompt_bd0f80a966c8a19e3a2a04a27051ba58|whom are you with?
+
+prompt_b09357d618eb6fd91e0f31e4f04bab1d|he finally started to recover.
+
+prompt_98b5a884a01bd87dc2b1f69f865f840a|i have thousands of books.
+
+prompt_f7e9f6ea2e5043d5cd70df3303280cb7|i have a bicycle.
+
+prompt_964d8f52178260f93de2dd8cebe7205b|i talk with the woman.
+
+prompt_91f52e6c098e243184521a14efb066a7|are we a normal family?
+
+prompt_edf67295831772c44dcc83abc4ae2198|the english version is perfect.
+
+prompt_63335b505e24576714c742ad42e0b540|you are going to open the door.
+
+prompt_248e8081286ab029cf91d70366a44b9c|they are different.
+
+prompt_09dea3a461eefabf0dfce15c12efb0d1|the menu is not available in german.
+
+prompt_97433e2ee277a778402ee3e6b269dd1e|i trust him.
+
+prompt_de866cc541f2035691287e478c855388|i want to be here.
+
+prompt_d6ba63b9fcca498a741019c82708805e|he sees me clearly.
+
+prompt_fa1d4dac747dea27d9e12508d16f3e39|if he does not come, we do not drive.
+
+prompt_bdf0d2089fc2a3cc4a454355250f14b7|i eat chicken.
+
+prompt_1ecf08871eab93e6b6a8035e3f132e4b|tomorrow she will get to paris.
+
+prompt_9030e1cadc72b85fb68403b183bb974d|she wears my shoes.
+
+prompt_ac0a8491f0b027b341cf51ecfa41f1a5|this landscape is very different.
+
+prompt_eb5136c2bdd22ece50148fe612417c5f|she had known his uncle.
+
+prompt_47179585e242e1e280695da4c548d71d|you are also doctors.
+
+prompt_f3722c1d8fc6c84b6edfa2d163807880|animals are not humans.
+
+prompt_bf95d3165c8dd007c59dd7839a7de55f|i have to analyze that.
+
+prompt_b73fab251d49dd7270633bc734072106|he is a military man.
+
+prompt_1eb3f162351144b5a7a5528762ace597|i am a girl.
+
+prompt_fcce838eb57c4a7ff5819c18687e88a7|the child is afraid of the dark.
+
+prompt_2cea81782c5404aa55e1062a84d52ecc|i will cook the chicken with a pan.
+
+prompt_f934409083be2ecdc20ffbcc3238856d|she has forced me to swim.
+
+prompt_8455c37016864685bf725c531022e1bc|how are your parents?
+
+prompt_1a5ebe6b241627965d2c7374c2fd3e39|how do they affect students and teachers?
+
+prompt_74e415a45edbdc0f3a9b6aa089de70ae|he offers her an apple.
+
+prompt_1197b49a3f03da55e19ecc6a2adef6f8|where is your friend?
+
+prompt_860152ee66c22da78e7786b5a20356ec|he eats food.
+
+prompt_1ce7bbeaba881fbc27a07818c0728b8d|i have allowed them.
+
+prompt_ba78e920104fe7e74a86f7b7e3eca3b4|the victim needs help.
+
+prompt_f952476be786a6de5ebdf7937d518101|i want to drive.
+
+prompt_daba76f37b0f9a1ebdf17429680f5904|i mark the shirt.
+
+prompt_6718d427d8024a5b5b2cbbef6488b582|it is completely green.
+
+prompt_aececb6f0fc95f60d2640a2faf465c7a|the child eats pasta.
+
+prompt_85cda6e14b15048823faa850f30eb68f|she had assumed it.
+
+prompt_9fede659ea891883f622139c0ab45249|she sees a horse.
+
+prompt_d5ecdf769eded8b5733390b1556f47e6|he would have opened the window.
+
+prompt_e7af6ce24f33cd192347f3b33efc6f9c|the family works in the fields.
+
+prompt_a4abe6ae4f35e80fd5d02f0acf3b6a6b|the museum of transportation
+
+prompt_76677b991869be600c8f4d6ab04667c6|i am a human.
+
+prompt_b88c9567c648cc9e086336b400c0ff2d|the cycle continues.
+
+prompt_7862caa5351ec5c58f4573ba83456b2e|they are going to close the restaurant.
+
+prompt_0df4cf260f71139139a60d2c0b63d95d|i have children.
+
+prompt_81bb0bca745b950f1a04512b4291036e|the family thanks me.
+
+prompt_f36f6f6cb230584e2a329fc59bb382fa|he will write a book.
+
+prompt_3894c434eb4ce41b19392189494875a1|we are a musical family.
+
+prompt_56c9ea6a6b9826c78df06dc2f1b5f17f|i have lost my passport.
+
+prompt_9a4d92a91b97bd49e984d86e841e8163|eleven to nineteen
+
+prompt_8425374f45cfe996f999bfcf3ec5878d|i do not like mondays.
+
+prompt_c200441c0eb984987f659223da1ab0e2|my skirt is red.
+
+prompt_571643f6adcea524b846d2e012583573|he works in education.
+
+prompt_b12a956e2eed87cdc4c7b63bd4ab43d8|she likes the design on the plate.
+
+prompt_78b34b22c20b84dcb925b9fc335adbf1|i listened to the lecture.
+
+prompt_d62199ee55dd7d9a69e456eef52d31d7|you do not add sugar?
+
+prompt_4410eef7b4cd04f73562d769b6ef452c|i will show you.
+
+prompt_5b2683ddd61ef081a59228c7f0052b96|the boy's dog
+
+prompt_f1c48a9ac756cd26c9cde3aeafeb554d|their children read books.
+
+prompt_ad9fcf6584a3b0d822d141a9bea259fa|he is giving the dog meat.
+
+prompt_7980bdceb6bbd815625173fcf91589ee|i want a suit made out of this material.
+
+prompt_3960f174f89488b9d9e7fd334c9d55b2|he has finished his work.
+
+prompt_8c52d1b3a419730914ad83a4cff9a43c|the lawyer presents his version.
+
+prompt_a00933a1e09f5b380488649cf895f03b|do you have a passport?
+
+prompt_9b8f27da8313b2720d6cf478e88dbde2|in one minute there are sixty seconds.
+
+prompt_8a239c97b42c40a5a240def878ba0ebc|we have arrived.
+
+prompt_bfd7821f4f60b1fa7e4f826a364236f4|they did not go to school today.
+
+prompt_634c6c50b349f62ce37375ff50497b4c|he gave me a watch.
+
+prompt_8d02bfed128228831c7c35d3c6287666|i am going to control myself.
+
+prompt_d0f0717cc53de75ca60069c7572f2c87|she has a sad expression.
+
+prompt_7277b800abbe84a0537cb9f6633bf380|all plants need water and light.
+
+prompt_855222718732dc7463f9dfad0305a21b|you mix the sugar and the egg.
+
+prompt_1df9833346fad5d07c9616527b4d809d|see you in march!
+
+prompt_7792ecc574d10059b509c4bf37252348|the class finished.
+
+prompt_f1f53841687b8cef6a85a8ece1212b02|i live in south america.
+
+prompt_77ec6c2cd091c7a8facbc4e4b38858fb|the men walk.
+
+prompt_e90dbf436d749bfc2357b533415d9086|he is a great person.
+
+prompt_4c0cb90488b87a6fe38e072c78fc096a|do you have siblings?
+
+prompt_4f78245f6d3f32759e68154df2bba3d6|there are death risks.
+
+prompt_2db15a118b9b395b3532faaf3151f495|i have never drunk beer.
+
+prompt_b87a22e6995219156df678f48e7389fb|he explained his book.
+
+prompt_e397a3fb26117a1bb5cc4e65b618c777|i eat the dinner.
+
+prompt_2a28c9404828943531d94596e3ab6d43|he appeared in the church.
+
+prompt_eeeb0dac0d55273fb4d758b73c7f4c29|i read them.
+
+prompt_bbc80522f9385a645dfd4828c516f3dc|i like love stories.
+
+prompt_b042f2782434ad9fb03fe63a5c82a555|we read in the evening.
+
+prompt_524d1006a3d800596eab29f8ac0b0161|he left the restaurant without paying.
+
+prompt_5bef5c986bf08beb2d978cf712bcfdc8|my parents pay for my education.
+
+prompt_1bc4ec726aa0e74d30f758149814472b|he delivers computers.
+
+prompt_18f3431caff719aafc1ecacd9035b61d|i want sons and daughters.
+
+prompt_ff2a27dc045145a87b8a71263e8e44c3|she is very tired.
+
+prompt_79df600e0c26abc8bb6a230714545005|i pay attention to her.
+
+prompt_ad49ae7522e0b5ccef301161f65f4c0e|i do not understand anything.
+
+prompt_d68fc22ceefea3fc6b12adf104ab0627|your answer is wrong.
+
+prompt_a20d3eb865842844a089c9f45af41dd6|my grandmother is from china.
+
+prompt_4c23a5601cca4f7d4754e8cfcb314dc1|where is your room?
+
+prompt_de3afc77b3587bb724c5fb93899ece07|yesterday was my last day at the firm.
+
+prompt_b6cb05d138353d0c6dc82f7a28279dab|they touch the elephant.
+
+prompt_3c58ea68a83878ce76e1ad4cd0067749|where did you eat yesterday?
+
+prompt_0419a3a7a0fd180138131ed109780167|i showed her the watch.
+
+prompt_5f128248b6e53b84b59445dc8325c239|he walks one meter per second.
+
+prompt_7d81387d7224060ea4406adc634718e2|the match is on another channel.
+
+prompt_a4df60a11375dfbb4079b784490868a1|do you have a new friend?
+
+prompt_dd669c4141f8b62596f83fdcd8f7b5ae|i wear a skirt.
+
+prompt_bde862a3e5ffc20bd8ab612107477c4e|she gets a sandwich.
+
+prompt_4876521bf695c683328704f67eb2ac5b|she wears a hat.
+
+prompt_0a889c7d0cca5ebe7c4063699538ea90|he has sent a box.
+
+prompt_0501e38710ae16deea12a188b0ebef4e|who ate the bread?
+
+prompt_1d5065065483212b3607184f3dc4ef91|the candidate gave a speech on monday.
+
+prompt_09c95a25fc418589d4f5c116ae5137c5|my mother is a secretary.
+
+prompt_d32b5459e5cd0a76b9e6e3ed47d5bf2e|he pays me.
+
+prompt_90c5060f751b339477afec4b570cc8bf|she is going to listen to the music.
+
+prompt_92a452112c427f508bd30756055a5f60|the cabinet is black.
+
+prompt_f09967bcc9a4164d291c976d5df38101|the duck drinks milk.
+
+prompt_450863c1993bc0d82025964ffe7f068d|i need a guide in brazil.
+
+prompt_ec3e98c5ad8839f0cba8e1e329841fa6|he shows up in court.
+
+prompt_4b29c7e4aaf5d33a5cfcd433e7ed0054|calling your mother is a good idea.
+
+prompt_d920cadace2f9014dbc2279622422453|she wants the cheese.
+
+prompt_4d725b359f245378891c2ff79466c40e|i did not remember him.
+
+prompt_473608fa88e72d9eba404531aea2236e|a horse is an animal.
+
+prompt_17ea554496089a95c4db4d8c30d711a4|the woman has a calendar.
+
+prompt_a1e87cd828d9c36bfa18fc7661ce7487|she is your age.
+
+prompt_907ce2d6b3a3c93ed70202a535c189a4|you are a boy.
+
+prompt_a4ff052c792a31f54c4432797cd09275|the juice is good.
+
+prompt_6ece4329f9fb63a167e6ef546b3c78fe|i respect women.
+
+prompt_0f3d3e6940ec41fce8e0d094f134b15e|he is nice to his wife.
+
+prompt_c9bd90b80735c8503a52ec5820d5f24a|his mother is in the army.
+
+prompt_5210f341f82ddaf318e64132c5fbfce8|we jump on the bed.
+
+prompt_00091bfc0d8fa716be443cd3047f05f0|please change the volume of the radio.
+
+prompt_adbfa32ddbcb0ac4bf26f2a7bad0af62|i can speak english.
+
+prompt_d7a712a6c5a751035a233d37593763aa|i am going to place it in your suitcase.
+
+prompt_b9a16e9162a7ebd98181d352b361bca5|i am not as tired as you.
+
+prompt_6dacd4bf7bcab8418664f9863d64cfbf|he has a red telephone.
+
+prompt_55c12f3e63e6c6f2885416875353bc22|we looked down at the beautiful sea.
+
+prompt_35fe69518b5eac7bfde414d75f6f98a2|we do not have much time.
+
+prompt_3ecee738ec9e1cd61a4210d68e9ffbb2|we do not exercise.
+
+prompt_5ee4d67af73adcfd4e02f3fa866c9d97|what do you want to rent?
+
+prompt_1819cb6d5f7fba6fbedbc2cb7a591872|he seems fine.
+
+prompt_85d623cd79d4944f68b954d566ad8014|sometimes i sleep on the floor.
+
+prompt_6c35bd4533c4527c4fd5d7e3e8729af7|he is not there yet.
+
+prompt_0e757d545d342122f399a15b835397eb|i am not a judge.
+
+prompt_d71570af6cc9c96ee0fc7dea78df3be0|he appears in the book.
+
+prompt_49855bf68f5c33b78f7c3b89d894894d|he is not a member of parliament.
+
+prompt_626908a2669602304a91c6d32028c7ef|it takes a lot of time.
+
+prompt_7a986b274d45c56c72a34b31371a8c77|the temperature of the sun is thousands of degrees.
+
+prompt_6b07701cb4bdb707e5b7abd103ba0fe6|they would have discovered the house.
+
+prompt_fc60d4a88d18238d25a9a573e029e79b|i like roses.
+
+prompt_c48b313c17da7180ec1fec6c87f05147|i have glasses.
+
+prompt_8fd7d2bab0b765923b74ff29f8834b1c|the square is beautiful.
+
+prompt_ab7a1a7ac06597d03339efab4c6bacca|yes, of course.
+
+prompt_e2cd572540a2a75907e3c24f2db99e54|i want to run for an hour.
+
+prompt_11e1d0357ee9cb180770ee218efa7907|the amount of milk is important.
+
+prompt_943a9e93ea1c6d3e7a6a8a816ed79772|i study art history.
+
+prompt_767a2003bff26e4cd115ce6805066251|we will have chosen this desk.
+
+prompt_1195026c24871313afe2d1f83f20495a|we need a contract.
+
+prompt_a3e69228b0508aa13a4311fa31819e72|the scene is big.
+
+prompt_05907dfba37338c43c172d074753bdfc|the germans like the month of september.
+
+prompt_e54e22158474c0a04f83c0783352afbe|she is my older sister.
+
+prompt_f6b7a4d81e07a13d973a9d0e53e806cc|he wrote threats to the president.
+
+prompt_c652350cbe68be1f5bba5ebba894b0a0|i dry the shirt.
+
+prompt_ab73bab27f18fb76c63ebe5c5c88fd09|my grandmother does not have teeth.
+
+prompt_0b65881f3a9d5a2279664457bc13d8e4|it continues today.
+
+prompt_fa5022aaa360984915fad356f627a8e6|your color is blue.
+
+prompt_e80c357edc3d3444bb6bb6a5b954130f|the entry is open.
+
+prompt_89ea53e8dce350e54ed471988fdba079|they fill the plates.
+
+prompt_7988b9a7850a48f10a20a8e21ace0f99|birds sing.
+
+prompt_16bb531b34ef57dc9fcd8b89de797164|three and five are numbers.
+
+prompt_21498baa742f9cff3304e3a6d6564ea5|her wealth is big.
+
+prompt_ba7bb6a3c42f78f11ba5eaa7c4bace8d|which toothpaste?
+
+prompt_107bb333ec1ec2330f7c1300ba494c67|he has not eaten today.
+
+prompt_e80b416180202dc0ac9ddf6158839114|my dad is an engineer.
+
+prompt_167ad4b69768cf57259d1f7c3c6461bd|my father is at work.
+
+prompt_850c31ca4f5b750c51149f225b49149f|they have performed together.
+
+prompt_fdc88fd2a36f52110181f2065428936e|what do you think of his coach?
+
+prompt_d91140f24964ecd66af77eed90d29046|we read the local newspaper.
+
+prompt_dd8fd4370bb7d66f3a74fa6886e40371|he scored four points.
+
+prompt_9e23b8400ff15c1ba2d3711c886a1d5a|when do you work?
+
+prompt_2a2f57694c75d760aa11f1126b9e6a39|eat more.
+
+prompt_6950b94c6af97344d87cf289dd2859da|what are you doing?
+
+prompt_558761690108e81569636331216a0196|the area of the house
+
+prompt_dc0932e39e8ea4127498fcc5b7c73eb8|it has stopped raining.
+
+prompt_e96c61429f8fe7ebe96f5a698bbf4f27|the trip is for free.
+
+prompt_a0b795f7e0e8d0a4a0d162b8d14c4ca5|you have put your shoes on.
+
+prompt_32db724920902eaf3a6f1c242651c205|i deliver sandwiches.
+
+prompt_d9f5f73af8c4cd3e4926e16145645e53|the presentation is official.
+
+prompt_16d04a98630003dec560feff03c75f0b|where is your school?
+
+prompt_45cca44c6bcd510fe2909fbc73fc8cd6|i have no brothers.
+
+prompt_3f57acec33e223772dc1790a65a93846|you had closed the door.
+
+prompt_a945f3993d5404fc32e531cb68e12555|that is a good idea!
+
+prompt_760f89252662da8ce3b7de0c6f639597|i will lose my job.
+
+prompt_1a3ab90556cd2a05a2390ad4b195def6|his house is in the valley.
+
+prompt_b2b8b7bf7b1e6761e246c82f022e3a04|i open the wine.
+
+prompt_75e6cb1969cb662fc59f3868e230ef61|i had walked with you.
+
+prompt_19e74ab57da34e719ed5d569b9e67c55|she is tall.
+
+prompt_1bbf22530af0d7d31694cb31f09ba6f8|call me tomorrow.
+
+prompt_bba4e89b71d0d99896af4b81df4b0a8a|except for the beer
+
+prompt_c54ddced3932f6322434df0723edfc54|i like these colors.
+
+prompt_b5941d6bbb1f23c59a520222189ed944|it took eight hours to do the operation.
+
+prompt_07ef5ac12afb45cda7915b3a785ae2d8|i am going to open the letter.
+
+prompt_fe4f1a6536f09c92027ce1ddef878403|they are going to break his glasses.
+
+prompt_031655842971ee9a6735e599fedfec3c|the amount of sugar is different.
+
+prompt_a0cf2ba7200adf56dacb3844b192c1da|we swim to the island.
+
+prompt_53814343b1d955a13a62ca1a93b0ed15|i want you to open your eyes.
+
+prompt_3ddd509c2b5b0ba140ebcbe3c7c44d88|i am the captain.
+
+prompt_e6a729d59c108678d0c12c5c3d722b21|he likes to build houses.
+
+prompt_29e0f83ef37467135f69356e6d2d3f1d|i finished a marathon.
+
+prompt_a9b5191764be80a1367c4c804968d0ce|you have no interests.
+
+prompt_984db9329ab3f1b3c9985c1291f7f9b7|it is the new reality.
+
+prompt_bc3a20806272c9d1c117e1a1e9b54ee6|they had led the country.
+
+prompt_df7e3d3b08388ace2024b2a369db08da|however, they are not the same.
+
+prompt_276c2370dd23d2441eeaa459ec644be2|the man's car is white.
+
+prompt_13817ecc08efabfab5a478853721095c|i save the children.
+
+prompt_8d18c2cd4dbaf70cb0557ccf783dc892|i want pasta without cheese.
+
+prompt_8cd6a3a61a599e9edb5539976f7a82e9|my basket is under the table.
+
+prompt_17466356509c9949a2de1cca91aafce9|we are happy.
+
+prompt_a91760a3971cd08ab8ec7693fc652f51|his book is under the newspaper.
+
+prompt_99e7e6569f742a39ce0cba31bc9702c8|i have never met him.
+
+prompt_f0da5d021a0bd5c2aae0bc10455bdb28|the boy eats some sandwiches.
+
+prompt_c9aa01071fafe59a96ef56b2012c3a79|we read a bit.
+
+prompt_e9563fb65c3bc8f824b314a6876b9eb6|i wear a shirt.
+
+prompt_5d5d2e798bfe74e94f2d6434d13ec5e9|i like the zoo.
+
+prompt_e08d037ef6f4cad3988930da564c868b|we run in may.
+
+prompt_eb98a9676c280742588b47246ef7b1db|i am going to walk to the castle.
+
+prompt_e9d313ffe5dfebcf2106e11b5ea09a13|he speaks english.
+
+prompt_b059ccfc089ca48b5b23ef929c64321b|i saw her yesterday.
+
+prompt_76cc82daa53698a2b733d650f1d541bb|i liked it.
+
+prompt_12b2fc4a8d6216343db2c23333f70489|at what speed does he run?
+
+prompt_e2388d7444d71add5d33f9591d8ead2d|she opened the bottle.
+
+prompt_fe9d089d384ebdcfae81fa2eb48bc015|your cat is white.
+
+prompt_854ace0e2ead843823dd578915da3f4b|i need more gold.
+
+prompt_6c7eb5c9103c2ed251941d235ddd8492|make yourself at home.
+
+prompt_c843af32ff922beed562a8dbfeee4a2c|that apple is red.
+
+prompt_047af56e2173d91cb310b899c80ea5d1|you are as red as a tomato!
+
+prompt_eede025d52bb96a4ffc9f7219e6fbde4|the architect is my uncle.
+
+prompt_d08795ff7acd3ca960055f0366ea45ac|you talk too much.
+
+prompt_a2a9d222c4a633db8dc0fec912b9e726|i have a question.
+
+prompt_8afbfe69c1a62c39f98421224883621d|the answer is no.
+
+prompt_e4ba37ed5da7748467dfdc187af0a769|he is the boy who cooks.
+
+prompt_dcaf0622f6a20e0b188ece7e4738bc6b|i am not religious.
+
+prompt_6ac93064b878f64ebd34944e1bbcd26f|he tries going to the city.
+
+prompt_402405306799ed87e830308b2a57a464|he has closed the door.
+
+prompt_44abd757a21fd0af153e0c14b579e0eb|where is my razor?
+
+prompt_40b461fdc26e375e6b4b455ccf943c32|i wanted an apple.
+
+prompt_2489aa270a3354eb3b19df870c8bab88|i live in the country.
+
+prompt_4eb011ddc640e8a7d8fb01edca6ac5b4|i sleep away from you.
+
+prompt_88c80956bd60277c6521a0a2c8d14ccc|do you have a degree?
+
+prompt_f42bdad05842cad2dac0b3de90bc8044|one century is one hundred years.
+
+prompt_72c93b791315bf29353d27b9693ac9f1|is it january?
+
+prompt_39c375c7cb1370ff2b95d395a94a46df|i need your dad's signature.
+
+prompt_5cecdefb7e45a2b0c1429089022566a9|please, do not wake her now.
+
+prompt_043872be557fbad7e1e2bd4171b7618d|i have to increase the time.
+
+prompt_e02204a10931310c9965ea374a28cd03|he drinks and then writes.
+
+prompt_94f6a85d9beac3a31ef1cac0f529f22a|my scissors are yellow.
+
+prompt_bf171e760dd9186ace42c6f2b76d627e|write your address here.
+
+prompt_067540dc164d6b8c1cd7bd2339149c78|my mother is a senator.
+
+prompt_b9a8618052c724ce15b919b12849e657|i will take you to the airport.
+
+prompt_4cd6750a8d966a8a060a59dbf0c61288|last night, i listened to radio.
+
+prompt_5ee63a9c6fb7954d763536725f1f0b20|in about a month
+
+prompt_36ff2c8d07c92f7c99e5f7f9b9671d23|the girl comes with him.
+
+prompt_f9536426a410ac187c465a523418c2bb|it is true.
+
+prompt_74b9ce79f540a1083afe97b09b4c09bf|she has gone out.
+
+prompt_8382c1a5693d1b5853fa22653aaa9b62|please drink more wine.
+
+prompt_63ca3a8264c6d1d7582ed05ac4f7d16c|my sister works as a secretary.
+
+prompt_6a9e4aaad139944f7a1e43997c4e7252|she does not find her keys.
+
+prompt_b8ceea2cf307fea50f8d5e5b38d5d1e2|taro has a dog.
+
+prompt_512f34371111f46c1f80270559b5d5e1|they sleep in a hotel.
+
+prompt_df9c29c4ca3b18b5243a292477bba17f|she wants to show her bag.
+
+prompt_55e33415bc2917fd403c51cd1810c6b5|she does not look at me.
+
+prompt_a1ce6028a47b64698b3ce2e3fe2ddc6b|they listen.
+
+prompt_1d309c57ff971df54f86a72b88406606|she drinks wine once a day.
+
+prompt_2306a037ae8fa98e4ec61144e57089b9|they read some newspapers.
+
+prompt_f4558f502761860dbb9add0ac5173a78|i want another beer.
+
+prompt_20e1f202b8a9271bb9137788f44ab745|the cook has reduced the amount of milk.
+
+prompt_830ac670b50ba6a88b058ccbe56d766c|she is very beautiful.
+
+prompt_b6b9f9e2e17777fd57d52330018dad57|i announce her book.
+
+prompt_34a11cd5c6953353d30faa754fbe0de8|i stop her.
+
+prompt_a11eacc209deeaf1af6891d1330e665c|it is a deep question.
+
+prompt_c5e14b6e3c5627d37881e316ace44184|my duck drinks water.
+
+prompt_8c76140b83b739aaf2b77a76b718ed75|he reached his goal.
+
+prompt_b06ce869109db8ee6cccc5f1f0adf9d6|she plays in june.
+
+prompt_99068c790760fb39c0fa3c259eb3f15d|everything has a reason.
+
+prompt_7841d9db59161aa5157ea9c249d4d1d2|that does not affect me.
+
+prompt_6940ae7458988c349b856cceda1bfa39|they give an example.
+
+prompt_8c07126cff21707198874276f5844f6f|we do not like violence.
+
+prompt_b956abd370b591f6820535a2f87de420|i scored again.
+
+prompt_43ec10cc0f2a29578719eab2894b84b7|the theaters are big.
+
+prompt_9984adb8bcf3bd5589ee6213af98f3e9|we are going to discover the solution.
+
+prompt_8e5eb3e54d4f35d5fba2d8ed5f26be7a|my son is sixteen.
+
+prompt_b52111640f0d8590151ae7d48d2b0bca|where are you today?
+
+prompt_7fa3b767c460b54a2be4d49030b349c7|no
+
+prompt_da2bf06b417c48effd893da4ecbae990|then i will eat my hat!
+
+prompt_41b6dd995e8c3e78ecfff25f9cc5c1a7|i have a ball.
+
+prompt_e1a663649f0f4f8b7919c02d91b6b5be|thanks for the good advice!
+
+prompt_1d742cddc28cb212f29048793d5a4eba|my house is your house.
+
+prompt_d032aaaede568a22f771bdf10106338f|we are going to sell the shoes.
+
+prompt_2d806eb5b107556de28a5677e6f32a0d|that is a man.
+
+prompt_0fd817f1a7e515c1d69408cfcecc1fb0|this skirt does not fit me.
+
+prompt_e6fa95a69d67fbd05c3491dfd8479bd4|you have to wait.
+
+prompt_07547408756a60a393032a06815ce4ea|i have not seen it yet.
+
+prompt_f6910a2e48722cff09b9c1c163930868|i use it.
+
+prompt_81da6b1817f5361e6cb5d0dd2a03a9f8|who has allowed it?
+
+prompt_6e3af48a66a85a30e296dbd9aa3a14d8|we are wearing black shoes.
+
+prompt_554495d013da7e6b0de593f6f3b07d8e|whose book is it?
+
+prompt_5b873dd8e6c57b869a192cf7912f113a|i have never seen a volcano.
+
+prompt_ba235a6a56d547eb7cab9cfb68674fbb|tomorrow you are going to understand.
+
+prompt_f1fd98dd65bc13c6d2e48160988f9291|she is going to place the flower on the table.
+
+prompt_4cae5bd730f5c634b46c1985ec5db9d1|it has not rained this summer.
+
+prompt_ba13b7dff2f2cbc6d4f13957b883e740|there is a short hair on my plate.
+
+prompt_4870ac22c2d52d478c3a09fbe60f99aa|i am twenty.
+
+prompt_6869118c1d1d974408015e5824b9a37e|where are you?
+
+prompt_03cf54cd9859cc0c1ee0e3ae989fbe6b|we are going to apply it.
+
+prompt_e6ba1f258cb386e7333d5b852761de33|they are going to finish reading.
+
+prompt_a9dbb67732c04a8130b268e72938a61d|if he wins.
+
+prompt_ad18edc46077c5b444bc1bcd9986614f|he had gone home.
+
+prompt_4aed74369ad68815a9468f1a9251ec14|my brother uses this bicycle.
