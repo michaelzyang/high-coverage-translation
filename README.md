@@ -1,5 +1,5 @@
 # High Coverage Translation System for the ACL WNGT STAPLE 2020 Shared Task
-This repository contains the code used to train and evaluate our High Coverage Translation System.
+This repository contains the code used to train and evaluate our High Coverage Translation System. This is the code used for our paper [Training and Inference Methods for High-Coverage Neural Machine Translation](https://www.aclweb.org/anthology/2020.ngt-1.13/), published by ACL 2020
 
 ## Training
 The pretrained model we worked from was the JParaCrawl English-to-Japanese Transformer 'base' model (and associated sentencepiece models) from http://www.kecl.ntt.co.jp/icl/lirg/jparacrawl/. 
